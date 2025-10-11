@@ -1,19 +1,18 @@
-// main.js
-module.exports = class FileDeleteButtonPlugin {
-	onload() {
+import { Plugin, Notice } from "obsidian";
+
+export default class FileDeleteButtonPlugin extends Plugin {
+	async onload() {
 		console.log("File Delete Button Plugin loaded");
 
+		// ファイル右クリックメニューに削除項目を追加
 		this.registerEvent(
-			this.app.workspace.on('file-menu', (menu, file, source) => {
-				// ファイルメニュー右クリックに削除ボタンを追加
+			this.app.workspace.on("file-menu", (menu, file) => {
 				menu.addItem((item) => {
 					item
 						.setTitle("🗑 削除")
 						.setIcon("trash")
 						.onClick(async () => {
-							const confirmed = await this.app.workspace.confirm(
-								`${file.name} を削除しますか？`
-							);
+							const confirmed = confirm(`${file.name} を削除しますか？`);
 							if (confirmed) {
 								await this.app.vault.trashFile(file);
 								new Notice(`${file.name} を削除しました`);
@@ -23,16 +22,11 @@ module.exports = class FileDeleteButtonPlugin {
 			})
 		);
 
-		// ファイルエクスプローラーの表示監視
+		// ファイルエクスプローラー内に削除ボタンを挿入
 		this.injectDeleteButtons();
-		this.registerDomEvent(document, "click", (evt) => {
-			// 再描画時にボタンを再挿入
+		this.registerDomEvent(document, "click", () => {
 			this.injectDeleteButtons();
 		});
-	}
-
-	onunload() {
-		console.log("File Delete Button Plugin unloaded");
 	}
 
 	injectDeleteButtons() {
@@ -48,7 +42,7 @@ module.exports = class FileDeleteButtonPlugin {
 
 			icon.addEventListener("click", async (e) => {
 				e.stopPropagation();
-				const filePath = item.closest(".nav-file").getAttribute("data-path");
+				const filePath = item.closest(".nav-file")?.getAttribute("data-path");
 				const file = this.app.vault.getAbstractFileByPath(filePath);
 				if (!file) return;
 
@@ -62,4 +56,8 @@ module.exports = class FileDeleteButtonPlugin {
 			item.appendChild(icon);
 		});
 	}
-};
+
+	onunload() {
+		console.log("File Delete Button Plugin unloaded");
+	}
+}
