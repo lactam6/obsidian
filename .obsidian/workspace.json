@@ -162,7 +162,8 @@
               "title": "器官生理=消化器 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -431,14 +432,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be965fc4ae240d5c",
+  "active": "4b388166a9246ce0",
   "lastOpenFiles": [
     "999_res/Physiology/12 消化器2.pdf",
-    "999_res/Physiology/11 消化器1.pdf",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "02_Info_Notes/器官生理=消化器 1.md",
+    "999_res/Physiology/11 消化器1.pdf",
     "01_General_Notes/器官生理=消化器.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Physiology/13 消化器3.pdf",
     "999_res/Physiology/無題のファイル 1.md",
     "999_res/Physiology/1 体液・細胞膜.pdf",
