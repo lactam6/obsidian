@@ -4,52 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a391c623e876deaf",
+        "id": "edb24781ec3b5acc",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3926f12a7b556b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Pasted image 20251012000632",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"999_res/Pasted image 20251012000632.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20251012000632\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "細胞生理",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/Physiology/細胞生理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"細胞生理\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "無題のファイル",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"03_Complete_Notes/Physiology/無題のファイル.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"無題のファイル\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0}}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Complete_Notes/Physiology/筋肉.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "筋肉"
-            }
-          },
-          {
-            "id": "a553761e61ba9d53",
+            "id": "d7de10fef9519783",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,14 +20,13 @@
               ]
             },
             "state": {
-              "type": "thino_view",
+              "type": "empty",
               "state": {},
-              "icon": "Memos",
-              "title": "Thino"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,11 +296,12 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "a553761e61ba9d53",
+  "active": "d7de10fef9519783",
   "lastOpenFiles": [
-    "2025-10-12.md",
-    "03_Complete_Notes/Physiology/筋肉.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
+    "00_Daily_Notes/2025-10-12.md",
+    "03_Complete_Notes/Physiology/筋肉.md",
+    "2025-10-12.md",
     "00_Daily_Notes",
     "999_res/Pasted image 20251012000632.png",
     "03_Complete_Notes/Physiology/無題のファイル.base",
@@ -376,7 +335,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md"
+    "copilot/copilot-custom-prompts/Make longer.md"
   ]
 }
