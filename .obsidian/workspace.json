@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "237147b0a2072c4c",
+        "id": "ba1a2d27cdbad55d",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ab77624fe7d9ca",
+            "id": "dd042b135141e021",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,10 +22,114 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Physiology/1 体液・細胞膜.pdf"
+                "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1 体液・細胞膜"
+              "title": "器官生理学中間 シケタイテキスト 0920"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fcf23392c82d3b12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16017153645a3b1c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/11 消化器1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "11 消化器1"
+            }
+          },
+          {
+            "id": "7f089f56f4f20e1f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/12 消化器2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "12 消化器2"
+            }
+          },
+          {
+            "id": "27106017d86f1cec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/13 消化器3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "13 消化器3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aab052f148781d6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be965fc4ae240d5c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "器官生理学中間 シケタイテキスト 0920",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"器官生理学中間 シケタイテキスト 0920\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/器官生理=消化器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "器官生理=消化器"
             }
           }
         ]
@@ -112,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -296,19 +401,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8ab77624fe7d9ca",
+  "active": "be965fc4ae240d5c",
   "lastOpenFiles": [
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "01_General_Notes/器官生理=消化器.md",
+    "999_res/Physiology/13 消化器3.pdf",
+    "999_res/Physiology/12 消化器2.pdf",
+    "999_res/Physiology/11 消化器1.pdf",
+    "999_res/Physiology/無題のファイル 1.md",
+    "999_res/Physiology/1 体液・細胞膜.pdf",
     "999_res/Physiology/9 呼吸器系2.pdf",
     "999_res/Physiology/9 呼吸器系2 プリント.pdf",
     "999_res/Physiology/8 呼吸器系　プリント.pdf",
     "999_res/Physiology/8 呼吸器系.pdf",
     "999_res/Physiology/7 循環器(血管2).pdf",
-    "999_res/Physiology/6 循環器(血管1).pdf",
-    "999_res/Physiology/5 循環器(心臓2).pdf",
-    "999_res/Physiology/3 筋肉.pdf",
-    "999_res/Physiology/4 循環器(心臓1).pdf",
-    "999_res/Physiology/2 細胞間・細胞内伝達　まとめプリント.pdf",
     "00_Daily_Notes/2025-10-12.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
     "03_Complete_Notes/Physiology/筋肉.md",
@@ -333,8 +439,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md"
+    "copilot/copilot-custom-prompts/Remove URLs.md"
   ]
 }
