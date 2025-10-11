@@ -11,14 +11,10 @@
             "id": "e24a3845bdc2a6da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/細胞生理.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "細胞生理"
+              "title": "新規タブ"
             }
           }
         ]
@@ -190,9 +186,11 @@
   },
   "active": "d9073234f208c51c",
   "lastOpenFiles": [
+    "Physiology/細胞生理.md",
+    "無題のファイル.canvas",
+    "Physiology/筋肉.md",
     "無題のフォルダ",
     "Physiology/器官生理学.md",
-    "Physiology/細胞生理.md",
     "Physiology/Untitled 1.md",
     "Untitled.md",
     "Untitled 2",
