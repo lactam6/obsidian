@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17da762e0100af10",
+            "id": "b8ab77624fe7d9ca",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/1 体液・細胞膜.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1 体液・細胞膜"
             }
           }
         ]
@@ -284,9 +286,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
       "daily-notes:今日のデイリーノートを開く": false,
-      "canvas:新規キャンバスを作成": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
@@ -296,20 +296,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17da762e0100af10",
+  "active": "b8ab77624fe7d9ca",
   "lastOpenFiles": [
+    "999_res/Physiology/9 呼吸器系2.pdf",
+    "999_res/Physiology/9 呼吸器系2 プリント.pdf",
+    "999_res/Physiology/8 呼吸器系　プリント.pdf",
+    "999_res/Physiology/8 呼吸器系.pdf",
+    "999_res/Physiology/7 循環器(血管2).pdf",
+    "999_res/Physiology/6 循環器(血管1).pdf",
+    "999_res/Physiology/5 循環器(心臓2).pdf",
+    "999_res/Physiology/3 筋肉.pdf",
+    "999_res/Physiology/4 循環器(心臓1).pdf",
+    "999_res/Physiology/2 細胞間・細胞内伝達　まとめプリント.pdf",
+    "999_res/Physiology/2 細胞間・細胞内伝達.pdf",
     "00_Daily_Notes/2025-10-12.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
     "03_Complete_Notes/Physiology/筋肉.md",
     "2025-10-12.md",
-    "00_Daily_Notes",
     "999_res/Pasted image 20251012000632.png",
-    "03_Complete_Notes/Physiology/無題のファイル.base",
-    "999_res",
-    "99_Archive",
-    "02_Info_Notes",
-    "03_Complete_Notes",
-    "01_General_Notes",
     "03_Complete_Notes/Physiology/Untitled 1.md",
     "2025-10-11.md",
     "Physiology/無題のファイル.md",
@@ -321,11 +325,8 @@
     "無題のファイル.canvas",
     "03_Complete_Notes/Physiology/Untitled.md",
     "Physiology/無題のファイル 2.md",
-    "無題のフォルダ 1",
     "Physiology/器官生理学.md",
     "Untitled.md",
-    "Untitled 2",
-    "Untitled 1",
     "Physiology/神経生理学.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
@@ -334,7 +335,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md"
+    "copilot/copilot-custom-prompts/Generate table of contents.md"
   ]
 }
