@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "筋肉"
             }
-          },
-          {
-            "id": "affdf3ada3f5e3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/無題のファイル 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,18 +189,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "affdf3ada3f5e3e5",
+  "active": "e24a3845bdc2a6da",
   "lastOpenFiles": [
+    "Physiology/無題のファイル.base",
+    "Physiology/筋肉.md",
+    "Physiology/Untitled 1.md",
+    "Physiology/Untitled.md",
+    "Physiology/無題のファイル 1.md",
     "Physiology/無題のファイル 2.md",
     "無題のフォルダ",
-    "Physiology/無題のファイル 1.md",
     "無題のフォルダ 1",
-    "Physiology/筋肉.md",
     "Physiology/無題のファイル.md",
     "Physiology/細胞生理.md",
     "無題のファイル.canvas",
     "Physiology/器官生理学.md",
-    "Physiology/Untitled 1.md",
     "Untitled.md",
     "Untitled 2",
     "Untitled 1",
@@ -238,7 +226,6 @@
     "器官生理学.pdf",
     "hi/Untitled.md",
     "hi/Untitled 3.md",
-    "hi/Untitled 2.md",
     "Physiology"
   ]
 }
