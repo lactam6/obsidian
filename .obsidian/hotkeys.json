@@ -23,5 +23,15 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
