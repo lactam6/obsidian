@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +188,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0b76878614f8a06c",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
+    "無題のフォルダ",
     "Physiology/器官生理学.md",
     "Physiology/細胞生理.md",
     "Physiology/Untitled 1.md",
