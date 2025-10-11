@@ -20,13 +20,13 @@
                 {
                   "title": "無題のファイル",
                   "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Physiology/無題のファイル.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"無題のファイル\"}",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"03_Complete_Notes/Physiology/無題のファイル.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"無題のファイル\"}",
                   "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0}}}}"
                 },
                 {
                   "title": "筋肉",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Physiology/筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"筋肉\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/Physiology/筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"筋肉\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/筋肉.md",
+                "file": "03_Complete_Notes/Physiology/筋肉.md",
                 "mode": "source",
                 "source": false
               },
@@ -310,12 +310,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "06adccee4344ddee",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
-    "Physiology/無題のファイル.base",
-    "Physiology/筋肉.md",
-    "Physiology/細胞生理.md",
-    "Physiology/Untitled 1.md",
+    "999_res",
+    "99_Archive",
+    "02_Info_Notes",
+    "03_Complete_Notes",
+    "01_General_Notes",
+    "03_Complete_Notes/Physiology/無題のファイル.base",
+    "03_Complete_Notes/Physiology/筋肉.md",
+    "03_Complete_Notes/Physiology/細胞生理.md",
+    "03_Complete_Notes/Physiology/Untitled 1.md",
     "2025-10-11.md",
     "Physiology/無題のファイル.md",
     "Physiology/無題のファイル 3.md",
@@ -323,9 +328,8 @@
     "無題のファイル 1.md",
     "無題のファイル.md",
     "Physiology/無題のファイル 1.md",
-    "無題のフォルダ",
     "無題のファイル.canvas",
-    "Physiology/Untitled.md",
+    "03_Complete_Notes/Physiology/Untitled.md",
     "Physiology/無題のファイル 2.md",
     "無題のフォルダ 1",
     "Physiology/器官生理学.md",
@@ -344,9 +348,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "器官生理学.pdf",
-    "Physiology"
+    "copilot/copilot-custom-prompts"
   ]
 }
