@@ -11,10 +11,14 @@
             "id": "edeb87b3312d37c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/筋肉.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "筋肉"
             }
           }
         ]
@@ -163,14 +167,23 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "a7934da048b12bf9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +195,14 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9073234f208c51c",
+  "active": "edeb87b3312d37c6",
   "lastOpenFiles": [
+    "Physiology/無題のファイル.base",
+    "Physiology/無題のファイル.md",
     "Physiology/無題のファイル 3.md",
     "無題のファイル 2.md",
     "無題のファイル 1.md",
@@ -196,11 +212,9 @@
     "無題のファイル.canvas",
     "Physiology/Untitled 1.md",
     "Physiology/筋肉.md",
-    "Physiology/無題のファイル.base",
     "Physiology/Untitled.md",
     "Physiology/無題のファイル 2.md",
     "無題のフォルダ 1",
-    "Physiology/無題のファイル.md",
     "Physiology/細胞生理.md",
     "Physiology/器官生理学.md",
     "Untitled.md",
@@ -219,7 +233,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "器官生理学.pdf",
