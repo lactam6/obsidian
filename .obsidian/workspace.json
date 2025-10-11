@@ -4,26 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1f256065edab5a",
+        "id": "6443e7c979a4df09",
         "type": "tabs",
         "children": [
           {
-            "id": "2aff36e614a82153",
+            "id": "06adccee4344ddee",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/筋肉.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "筋肉"
-            }
-          },
-          {
-            "id": "c8f73269ed807496",
-            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "無題のファイル",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Physiology/無題のファイル.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"無題のファイル\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0}}}}"
+                },
+                {
+                  "title": "筋肉",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Physiology/筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"筋肉\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -35,8 +42,7 @@
               "title": "筋肉"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,6 +58,15 @@
           {
             "id": "d9073234f208c51c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -65,6 +80,15 @@
           {
             "id": "130ed1c229f4d65e",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -82,6 +106,15 @@
           {
             "id": "dd9c8589af6e727f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -106,6 +139,15 @@
           {
             "id": "500078f0263fd881",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -124,6 +166,15 @@
           {
             "id": "ae7ae37146ebf5a6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -137,6 +188,15 @@
           {
             "id": "ff7d0dc35e3c7f45",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -152,6 +212,15 @@
           {
             "id": "201f94d8a8e6049d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -166,6 +235,15 @@
           {
             "id": "c5eaa9132dbcc7e1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-view",
               "state": {},
@@ -176,6 +254,15 @@
           {
             "id": "0b76878614f8a06c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "copilot-chat-view",
               "state": {},
@@ -186,6 +273,15 @@
           {
             "id": "a7934da048b12bf9",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
@@ -194,7 +290,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,12 +310,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c8f73269ed807496",
+  "active": "06adccee4344ddee",
   "lastOpenFiles": [
+    "Physiology/無題のファイル.base",
+    "Physiology/筋肉.md",
+    "Physiology/細胞生理.md",
     "Physiology/Untitled 1.md",
     "2025-10-11.md",
-    "Physiology/筋肉.md",
-    "Physiology/無題のファイル.base",
     "Physiology/無題のファイル.md",
     "Physiology/無題のファイル 3.md",
     "無題のファイル 2.md",
@@ -231,7 +328,6 @@
     "Physiology/Untitled.md",
     "Physiology/無題のファイル 2.md",
     "無題のフォルダ 1",
-    "Physiology/細胞生理.md",
     "Physiology/器官生理学.md",
     "Untitled.md",
     "Untitled 2",
@@ -248,7 +344,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "器官生理学.pdf",

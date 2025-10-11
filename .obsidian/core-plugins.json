@@ -2,9 +2,9 @@
   "file-explorer": true,
   "global-search": true,
   "switcher": true,
-  "graph": true,
+  "graph": false,
   "backlink": true,
-  "canvas": true,
+  "canvas": false,
   "outgoing-link": true,
   "tag-pane": true,
   "footnotes": false,
@@ -29,5 +29,5 @@
   "publish": false,
   "sync": true,
   "bases": true,
-  "webviewer": false
+  "webviewer": true
 }
