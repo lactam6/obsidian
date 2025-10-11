@@ -1,0 +1,10 @@
+{
+  "id": "file-delete-button",
+  "name": "File Delete Button",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Add a delete button next to each file name in the file explorer.",
+  "author": "lactam_6",
+  "authorUrl": "https://github.com/lactam-6",
+  "isDesktopOnly": true
+}
