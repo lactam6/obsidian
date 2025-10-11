@@ -47,8 +47,28 @@
               "icon": "lucide-file",
               "title": "筋肉"
             }
+          },
+          {
+            "id": "a553761e61ba9d53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,14 +334,17 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "2e3926f12a7b556b",
+  "active": "a553761e61ba9d53",
   "lastOpenFiles": [
-    "999_res/Pasted image 20251012000632.png",
+    "2025-10-12.md",
     "03_Complete_Notes/Physiology/筋肉.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
+    "00_Daily_Notes",
+    "999_res/Pasted image 20251012000632.png",
     "03_Complete_Notes/Physiology/無題のファイル.base",
     "999_res",
     "99_Archive",
@@ -344,7 +367,6 @@
     "Untitled.md",
     "Untitled 2",
     "Untitled 1",
-    "Untitled",
     "Physiology/神経生理学.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
