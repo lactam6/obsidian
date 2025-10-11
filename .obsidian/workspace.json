@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "ファイルエクスプローラ"
             }
           },
           {
@@ -173,22 +173,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e24a3845bdc2a6da",
+  "active": "0b76878614f8a06c",
   "lastOpenFiles": [
     "Physiology/器官生理学.md",
     "Physiology/細胞生理.md",
