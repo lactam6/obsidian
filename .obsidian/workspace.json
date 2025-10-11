@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "器官生理学"
             }
+          },
+          {
+            "id": "16927b9af4fb0b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,11 +203,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e24a3845bdc2a6da",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
-    "Physiology/神経生理学.md",
     "Physiology/器官生理学.md",
     "Untitled.md",
+    "Physiology/神経生理学.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
