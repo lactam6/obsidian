@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75dbee12a397cfcd",
+        "id": "b4d66d483ecb47c8",
         "type": "tabs",
         "children": [
           {
-            "id": "dc67e7e69cfd38d8",
+            "id": "9db06e49d6ba463c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,52 +18,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "ログイン認証 | KU-SSO",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://ku-sso.cis.kanazawa-u.ac.jp/idp/profile/SAML2/Redirect/SSO?execution=e1s3\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                },
-                {
-                  "title": "Select Authentication. | KU-SSO",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://ku-sso.cis.kanazawa-u.ac.jp/idp/profile/SAML2/Redirect/SSO?execution=e1s2\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                },
-                {
-                  "title": "Select Authentication. | KU-SSO",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://ku-sso.cis.kanazawa-u.ac.jp/idp/profile/SAML2/Redirect/SSO?execution=e1s1\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                },
-                {
-                  "title": "KU-SSO - 金沢大学統合認証システム",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://acanthus.cis.kanazawa-u.ac.jp/\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                },
-                {
-                  "title": "アカンサスポータル ログイン",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=acanthus&ia=web\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                },
-                {
-                  "title": "acanthus at DuckDuckGo",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=acanthus\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
+                  "title": "2025-10-12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Daily_Notes/2025-10-12.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-10-12\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://ku-sso.cis.kanazawa-u.ac.jp/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
-                "title": "ログイン認証 | KU-SSO",
-                "mode": "webview"
+                "file": "03_Complete_Notes/Physiology/細胞生理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "ログイン認証 | KU-SSO"
+              "icon": "lucide-file",
+              "title": "細胞生理"
             }
           }
         ]
@@ -336,7 +306,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "dc67e7e69cfd38d8",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
     "00_Daily_Notes/2025-10-12.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
