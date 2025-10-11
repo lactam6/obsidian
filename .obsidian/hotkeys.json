@@ -33,5 +33,24 @@
       ],
       "key": "N"
     }
+  ],
+  "obsidian-memos:show-thino-editor": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "workspace:new-tab": [],
+  "webviewer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }
