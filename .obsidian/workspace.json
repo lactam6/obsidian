@@ -27,6 +27,25 @@
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
             }
+          },
+          {
+            "id": "6ba0c5d869eec81b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ]
       },
@@ -105,25 +124,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be965fc4ae240d5c",
+            "id": "c4f33342b87f6de2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "器官生理=消化器",
+                  "title": "無題のファイル",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/器官生理=消化器.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理=消化器\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":4},\"to\":{\"line\":1,\"ch\":4}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/無題のファイル.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"無題のファイル\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "器官生理学中間 シケタイテキスト 0920",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"器官生理学中間 シケタイテキスト 0920\"}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -131,12 +144,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/器官生理=消化器 1.md",
+                "file": "01_General_Notes/器官生理=消化器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官生理=消化器 1"
+              "title": "器官生理=消化器"
             }
           },
           {
@@ -162,8 +175,7 @@
               "title": "器官生理=消化器 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -432,14 +444,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b388166a9246ce0",
+  "active": "c4f33342b87f6de2",
   "lastOpenFiles": [
-    "999_res/Physiology/12 消化器2.pdf",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "02_Info_Notes/器官生理=消化器 1.md",
-    "999_res/Physiology/11 消化器1.pdf",
     "01_General_Notes/器官生理=消化器.md",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "03_Complete_Notes/Physiology/細胞生理.md",
+    "01_General_Notes/無題のファイル.md",
+    "999_res/Physiology/12 消化器2.pdf",
+    "999_res/Physiology/11 消化器1.pdf",
     "999_res/Physiology/13 消化器3.pdf",
     "999_res/Physiology/無題のファイル 1.md",
     "999_res/Physiology/1 体液・細胞膜.pdf",
@@ -469,7 +482,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
   ]
 }
