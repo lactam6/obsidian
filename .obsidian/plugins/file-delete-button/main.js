@@ -1,63 +1,48 @@
-import { Plugin, Notice } from "obsidian";
+const { Plugin } = require("obsidian");
 
-export default class FileDeleteButtonPlugin extends Plugin {
-	async onload() {
+module.exports = class FileDeleteButtonPlugin extends Plugin {
+	onload() {
 		console.log("File Delete Button Plugin loaded");
 
-		// ファイル右クリックメニューに削除項目を追加
-		this.registerEvent(
-			this.app.workspace.on("file-menu", (menu, file) => {
-				menu.addItem((item) => {
-					item
-						.setTitle("🗑 削除")
-						.setIcon("trash")
-						.onClick(async () => {
-							const confirmed = confirm(`${file.name} を削除しますか？`);
-							if (confirmed) {
-								await this.app.vault.trashFile(file);
-								new Notice(`${file.name} を削除しました`);
-							}
-						});
+		this.registerDomEvent(document, "mouseover", (event) => {
+			const target = event.target.closest(".nav-file-title-content");
+			if (target && !target.querySelector(".delete-button")) {
+				const button = document.createElement("button");
+				button.textContent = "🗑";
+				button.classList.add("delete-button");
+				button.style.marginLeft = "8px";
+				button.style.cursor = "pointer";
+				button.style.border = "none";
+				button.style.background = "transparent";
+				button.style.color = "var(--text-muted)";
+				button.style.fontSize = "14px";
+
+				target.appendChild(button);
+
+				button.addEventListener("click", async (e) => {
+					e.stopPropagation();
+					const fileEl = target.closest(".nav-file");
+					if (!fileEl) return;
+
+					const path = fileEl.getAttribute("data-path");
+					if (!path) return;
+
+					const confirmed = confirm(`Delete "${path}"?`);
+					if (confirmed) {
+						try {
+							await this.app.vault.trash(this.app.vault.getAbstractFileByPath(path), true);
+							new Notice(`Deleted: ${path}`);
+						} catch (err) {
+							console.error(err);
+							new Notice(`Failed to delete ${path}`);
+						}
+					}
 				});
-			})
-		);
-
-		// ファイルエクスプローラー内に削除ボタンを挿入
-		this.injectDeleteButtons();
-		this.registerDomEvent(document, "click", () => {
-			this.injectDeleteButtons();
-		});
-	}
-
-	injectDeleteButtons() {
-		const fileItems = document.querySelectorAll(".nav-file-title-content");
-		fileItems.forEach((item) => {
-			if (item.querySelector(".delete-icon")) return; // 重複防止
-
-			const icon = document.createElement("span");
-			icon.textContent = "🗑";
-			icon.className = "delete-icon";
-			icon.style.marginLeft = "6px";
-			icon.style.cursor = "pointer";
-
-			icon.addEventListener("click", async (e) => {
-				e.stopPropagation();
-				const filePath = item.closest(".nav-file")?.getAttribute("data-path");
-				const file = this.app.vault.getAbstractFileByPath(filePath);
-				if (!file) return;
-
-				const confirmed = confirm(`${file.name} を削除しますか？`);
-				if (confirmed) {
-					await this.app.vault.trashFile(file);
-					new Notice(`${file.name} を削除しました`);
-				}
-			});
-
-			item.appendChild(icon);
+			}
 		});
 	}
 
 	onunload() {
 		console.log("File Delete Button Plugin unloaded");
 	}
-}
+};
