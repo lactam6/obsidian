@@ -8,7 +8,7 @@ module.exports = class FileDeleteButtonPlugin extends Plugin {
 			const target = event.target.closest(".nav-file-title-content");
 			if (target && !target.querySelector(".delete-button")) {
 				const button = document.createElement("button");
-				button.textContent = "🗑";
+				button.textContent = "x";
 				button.classList.add("delete-button");
 				button.style.marginLeft = "8px";
 				button.style.cursor = "pointer";
