@@ -11,10 +11,14 @@
             "id": "e24a3845bdc2a6da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/筋肉.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "筋肉"
             }
           }
         ]
@@ -175,8 +179,8 @@
     "hiddenItems": {
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
+      "canvas:新規キャンバスを作成": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
@@ -184,11 +188,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d9073234f208c51c",
+  "active": "e24a3845bdc2a6da",
   "lastOpenFiles": [
+    "Physiology/無題のファイル.md",
+    "Physiology/筋肉.md",
     "Physiology/細胞生理.md",
     "無題のファイル.canvas",
-    "Physiology/筋肉.md",
     "無題のフォルダ",
     "Physiology/器官生理学.md",
     "Physiology/Untitled 1.md",
