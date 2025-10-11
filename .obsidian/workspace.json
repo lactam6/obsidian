@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6947538c1243af40",
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +191,9 @@
   },
   "active": "e24a3845bdc2a6da",
   "lastOpenFiles": [
-    "Untitled.md",
+    "器官生理学.pdf",
     "Physiology/器官生理学.md",
+    "Untitled.md",
     "hi/Untitled.md",
     "hi/Untitled 3.md",
     "hi/Untitled 2.md",
