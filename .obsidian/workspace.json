@@ -422,11 +422,16 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-memos:Thino": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4b388166a9246ce0",
   "lastOpenFiles": [
+    "scripts/templater/addsupsub.js",
+    "scripts/templater",
+    "scripts",
+    "scripts/addsupsub.js",
     "01_General_Notes/器官生理=消化器.md",
     "02_Info_Notes/器官生理=消化器 1.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
@@ -440,9 +445,6 @@
     "999_res/Physiology/1 体液・細胞膜.pdf",
     "999_res/Physiology/9 呼吸器系2.pdf",
     "999_res/Physiology/9 呼吸器系2 プリント.pdf",
-    "999_res/Physiology/8 呼吸器系　プリント.pdf",
-    "999_res/Physiology/8 呼吸器系.pdf",
-    "999_res/Physiology/7 循環器(血管2).pdf",
     "00_Daily_Notes/2025-10-12.md",
     "03_Complete_Notes/Physiology/筋肉.md",
     "2025-10-12.md",
