@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dccf2974f43d432",
+        "id": "8044d399d0bd5702",
         "type": "tabs",
         "children": [
           {
-            "id": "f0a1f3b3d1bb5b78",
+            "id": "64ec8525b59f5d36",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,18 +20,92 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02_Info_Notes/器官生理_分析.md",
-                "mode": "source",
-                "source": false
+                "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf"
               },
-              "icon": "lucide-file",
-              "title": "器官生理_分析"
+              "icon": "lucide-file-text",
+              "title": "神経生理学中間 シケタイテキスト 1003"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3969ef34dafcdba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36803aa5dd778a38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "#2_イオンチャネルと興奮性膜1"
             }
           },
           {
-            "id": "cfcfcbc145ee37ed",
+            "id": "cc8f985bc0038c48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "#2_イオンチャネルと興奮性膜2"
+            }
+          },
+          {
+            "id": "75a23a73dd9342df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "#2_イオンチャネルと興奮性膜3"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a63261f6afe4a953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd68a20922b1448f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,16 +119,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/神経生理_分析.md",
+                "file": "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神経生理_分析"
+              "title": "神経生理_イオンチャネルと興奮性膜"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -306,7 +380,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,14 +398,19 @@
       "canvas:新規キャンバスを作成": false
     }
   },
-  "active": "cfcfcbc145ee37ed",
+  "active": "75a23a73dd9342df",
   "lastOpenFiles": [
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "01_General_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+    "02_Info_Notes/神経生理_分析.md",
     "02_Info_Notes/器官生理_分析.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Pasted image 20251012232629.png",
     "03_Complete_Notes/Physiology/細胞生理.md",
-    "02_Info_Notes/神経生理_分析.md",
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Physiology/11 消化器1.pdf",
     "999_res/Neural Physiology/#1_序論.pdf",
     "999_res/Neural Physiology/#9_脊髄と運動制御3.pdf",
@@ -338,9 +418,6 @@
     "999_res/Neural Physiology/#9_脊髄と運動制御1.pdf",
     "999_res/Neural Physiology/#9_小テスト.md",
     "999_res/Neural Physiology/#8_小テスト.md",
-    "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
-    "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
-    "999_res/Neural Physiology/#6_神経伝達物質2.pdf",
     "999_res/Neural Physiology/#3_小テスト.md",
     "999_res/Neural Physiology/#2_小テスト.md",
     "999_res/Neural Physiology/#12_小テスト.md",
@@ -360,8 +437,6 @@
     "2025-10-12.md",
     "999_res/Pasted image 20251012000632.png",
     "03_Complete_Notes/Physiology/Untitled 1.md",
-    "2025-10-11.md",
-    "Physiology/無題のファイル.md",
-    "Physiology/無題のファイル 3.md"
+    "2025-10-11.md"
   ]
 }
