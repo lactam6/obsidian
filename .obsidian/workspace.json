@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba1a2d27cdbad55d",
+        "id": "61acaa51b6f96044",
         "type": "tabs",
-        "dimension": 29.51039570757881,
         "children": [
           {
-            "id": "dd042b135141e021",
+            "id": "a2b556654d3750cf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -28,37 +27,9 @@
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
             }
-          }
-        ]
-      },
-      {
-        "id": "fcf23392c82d3b12",
-        "type": "tabs",
-        "dimension": 31.32126089872569,
-        "children": [
-          {
-            "id": "16017153645a3b1c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/11 消化器1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "11 消化器1"
-            }
           },
           {
-            "id": "e990838cb5d5d278",
+            "id": "2bb9cc77bfbcc763",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -70,96 +41,18 @@
               ]
             },
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "999_res/Physiology/12 消化器2.pdf"
+                "file": "02_Info_Notes/器官生理_分析.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "12 消化器2"
-            }
-          },
-          {
-            "id": "27106017d86f1cec",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/13 消化器3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "13 消化器3"
+              "icon": "lucide-file",
+              "title": "器官生理_分析"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "5e6a21c5011ba981",
-        "type": "tabs",
-        "dimension": 39.1683433936955,
-        "children": [
-          {
-            "id": "0e7ec14e2dcb5f2f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/器官生理=消化器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "器官生理=消化器"
-            }
-          },
-          {
-            "id": "c943b82d0f3be98b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "器官生理=消化器=壁細胞",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"02_Info_Notes/器官生理=消化器=壁細胞.canvas\",\"viewState\":{\"x\":792.5589791851284,\"y\":-664.4070504354216,\"zoom\":-1.283320674353214}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官生理=消化器=壁細胞\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/器官生理=消化器 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "器官生理=消化器 1"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -427,31 +319,38 @@
       "obsidian-memos:Thino": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false
     }
   },
-  "active": "0e7ec14e2dcb5f2f",
+  "active": "2bb9cc77bfbcc763",
   "lastOpenFiles": [
-    "Templater/templates/addsup.md",
-    "01_General_Notes/器官生理=消化器.md",
-    "無題のフォルダ",
-    "999_res/Physiology/13 消化器3.pdf",
-    "02_Info_Notes/器官生理=消化器 1.md",
-    "999_res/Physiology/12 消化器2.pdf",
-    "999_res/Physiology/11 消化器1.pdf",
-    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
+    "03_Complete_Notes/Physiology/細胞生理.md",
+    "02_Info_Notes/器官生理_分析.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-    "999_res/Physiology/8 呼吸器系.pdf",
+    "02_Info_Notes/神経生理_分析.md",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+    "999_res/Physiology/11 消化器1.pdf",
+    "999_res/Neural Physiology/#1_序論.pdf",
+    "999_res/Neural Physiology/#9_脊髄と運動制御3.pdf",
+    "999_res/Neural Physiology/#9_脊髄と運動制御2.pdf",
+    "999_res/Neural Physiology/#9_脊髄と運動制御1.pdf",
+    "999_res/Neural Physiology/#9_小テスト.md",
+    "999_res/Neural Physiology/#8_小テスト.md",
+    "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
+    "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
+    "999_res/Neural Physiology/#6_神経伝達物質2.pdf",
+    "999_res/Neural Physiology/#3_小テスト.md",
+    "999_res/Neural Physiology/#2_小テスト.md",
+    "999_res/Neural Physiology/#12_小テスト.md",
+    "999_res/Neural Physiology/#11_小テスト.md",
+    "999_res/Neural Physiology/#10_小テスト.md",
+    "02_Info_Notes/器官生理=消化器.md",
+    "01_General_Notes/器官生理=消化器.md",
+    "Templater/templates/addsup.md",
+    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
     "Templater/templates/addsub.md",
     "Templater/templates/addsup - コピー.md",
     "Templater/templates/addsupsub.md",
-    "Templater/templates/新規 テキスト ドキュメント.txt",
-    "Templater/templates",
-    "Templater/新しいフォルダー",
-    "Templater/scripts/addsupsub.js",
-    "03_Complete_Notes/Physiology/細胞生理.md",
-    "02_Info_Notes/無題のファイル.md",
     "01_General_Notes/無題のファイル.md",
     "999_res/Physiology/無題のファイル 1.md",
     "00_Daily_Notes/2025-10-12.md",
@@ -461,14 +360,6 @@
     "03_Complete_Notes/Physiology/Untitled 1.md",
     "2025-10-11.md",
     "Physiology/無題のファイル.md",
-    "Physiology/無題のファイル 3.md",
-    "無題のファイル 2.md",
-    "無題のファイル 1.md",
-    "無題のファイル.md",
-    "Physiology/無題のファイル 1.md",
-    "03_Complete_Notes/Physiology/Untitled.md",
-    "Physiology/無題のファイル 2.md",
-    "Physiology/器官生理学.md",
-    "Untitled.md"
+    "Physiology/無題のファイル 3.md"
   ]
 }
