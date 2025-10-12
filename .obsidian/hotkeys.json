@@ -80,5 +80,14 @@
       ],
       "key": "="
     }
+  ],
+  "copilot:chat-open-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
