@@ -16,4 +16,5 @@ module.exports = (tag = "sup") => {
 
     const editor = app.workspace.activeLeaf.view.editor;
     wrapSelection(tag, editor);
+    return "";
 };
