@@ -1,1 +1,1 @@
-<% tp.user.wrapSelection("sub") %>
+<%= tp.user.addsupsub("sub") %>
