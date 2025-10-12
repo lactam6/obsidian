@@ -10,6 +10,8 @@ function wrapSelection(tag, editor) {
         editor.replaceSelection(wrappedSelection);
     }
 }
- 
-editor = app.workspace.activeLeaf.view.editor;
-wrapSelection('sup', editor);
+
+module.exports = (tag = "sup") => {
+    const editor = app.workspace.activeLeaf.view.editor;
+    wrapSelection(tag, editor);
+};

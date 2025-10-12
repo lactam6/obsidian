@@ -428,6 +428,11 @@
   },
   "active": "4b388166a9246ce0",
   "lastOpenFiles": [
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "02_Info_Notes/器官生理=消化器 1.md",
+    "Templater/templates/addsub.md",
+    "Templater/templates/addsup - コピー.md",
+    "Templater/templates/addsup.md",
     "Templater/templates/addsupsub.md",
     "Templater/templates/新規 テキスト ドキュメント.txt",
     "Templater/templates",
@@ -438,9 +443,7 @@
     "Templater/scripts",
     "Templater",
     "新しいフォルダー",
-    "scripts/templater/addsupsub.js",
     "01_General_Notes/器官生理=消化器.md",
-    "02_Info_Notes/器官生理=消化器 1.md",
     "03_Complete_Notes/Physiology/細胞生理.md",
     "02_Info_Notes/無題のファイル.md",
     "01_General_Notes/無題のファイル.md",
@@ -461,10 +464,6 @@
     "03_Complete_Notes/Physiology/Untitled.md",
     "Physiology/無題のファイル 2.md",
     "Physiology/器官生理学.md",
-    "Untitled.md",
-    "Physiology/神経生理学.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md"
+    "Untitled.md"
   ]
 }

@@ -54,7 +54,25 @@
       "key": "T"
     }
   ],
-  "insert-template": [
+  "templater-obsidian:Templater/templates/addsupsub.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "templater-obsidian:Templater/templates/addsub.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "templater-obsidian:Templater/templates/addsup.md": [
     {
       "modifiers": [
         "Mod",
