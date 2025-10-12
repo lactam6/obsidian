@@ -16,7 +16,9 @@
 		{"id":"0f6a5e90f7a3ea3d","type":"text","text":"Gi(抑制性Gタンパク質)","x":-265,"y":125,"width":250,"height":50},
 		{"id":"3e6db14434218185","x":-140,"y":240,"width":250,"height":60,"type":"text","text":"AC(アデニル酸シクラーゼ)"},
 		{"id":"d702f4cafd101f4b","x":-140,"y":400,"width":250,"height":60,"type":"text","text":"ATPをcAMPに"},
-		{"id":"ef830e6757634642","x":-140,"y":560,"width":250,"height":60,"type":"text","text":"PKC(プロテインキナーゼA)"}
+		{"id":"ef830e6757634642","x":-140,"y":560,"width":250,"height":60,"type":"text","text":"PKC(プロテインキナーゼA)"},
+		{"id":"67c5553f6e6f1e35","x":230,"y":720,"width":250,"height":60,"type":"text","text":"Cl-の腺腔内への排出"},
+		{"id":"4c7fca7cf5d12d44","x":230,"y":500,"width":250,"height":60,"type":"text","text":"K+ｃジャメリK+の腺腔内への排出"}
 	],
 	"edges":[
 		{"id":"427e828f40cc35e8","fromNode":"6b61e70f0fc5a9a0","fromSide":"bottom","toNode":"23df69f3b444110a","toSide":"top","label":"刺激"},
@@ -35,6 +37,10 @@
 		{"id":"e0e964d8031bcb23","fromNode":"0f6a5e90f7a3ea3d","fromSide":"bottom","toNode":"3e6db14434218185","toSide":"top","label":"抑制"},
 		{"id":"3d7b2840de747df5","fromNode":"ffe1a0c6c52ac370","fromSide":"bottom","toNode":"3e6db14434218185","toSide":"top","label":"促進"},
 		{"id":"833e63c5e5a46820","fromNode":"3e6db14434218185","fromSide":"bottom","toNode":"d702f4cafd101f4b","toSide":"top"},
-		{"id":"d79e7bf6ff7894be","fromNode":"d702f4cafd101f4b","fromSide":"bottom","toNode":"ef830e6757634642","toSide":"top","label":"cAMP"}
+		{"id":"d79e7bf6ff7894be","fromNode":"d702f4cafd101f4b","fromSide":"bottom","toNode":"ef830e6757634642","toSide":"top","label":"cAMP"},
+		{"id":"7067e877317714f0","fromNode":"ef830e6757634642","fromSide":"bottom","toNode":"67c5553f6e6f1e35","toSide":"top"},
+		{"id":"fcd3feb194e94b5c","fromNode":"2c7a5c63dedfc144","fromSide":"bottom","toNode":"67c5553f6e6f1e35","toSide":"top"},
+		{"id":"24c874888749cad3","fromNode":"93ed5886cb035398","fromSide":"bottom","toNode":"4c7fca7cf5d12d44","toSide":"right"},
+		{"id":"e2f3e2dbc38f74be","fromNode":"ef830e6757634642","fromSide":"right","toNode":"4c7fca7cf5d12d44","toSide":"left"}
 	]
 }
