@@ -8,9 +8,12 @@
 		{"id":"4719fcfb409753ac","x":640,"y":-280,"width":250,"height":60,"type":"text","text":"G細胞: ガストリン"},
 		{"id":"f40371ba474ee057","x":960,"y":-280,"width":250,"height":60,"type":"text","text":"副交感神経: アセチルコリン"},
 		{"id":"4b8a2f2b1ab4dfce","x":765,"y":-4,"width":250,"height":60,"type":"text","text":"M3受容体"},
-		{"id":"fb1bb6eaa13414b1","x":560,"y":120,"width":250,"height":60,"type":"text","text":"Gq蛋白"},
+		{"id":"fb1bb6eaa13414b1","x":560,"y":120,"width":250,"height":60,"type":"text","text":"Gq(Gタンパク質)"},
 		{"id":"2194452570b0454a","x":560,"y":240,"width":250,"height":60,"type":"text","text":"PLC(ホスホリパーゼC): PIP2をIP3に"},
-		{"id":"93ed5886cb035398","x":480,"y":367,"width":250,"height":60,"type":"text","text":"小胞体: Ca2+の放出"}
+		{"id":"93ed5886cb035398","x":560,"y":400,"width":250,"height":60,"type":"text","text":"小胞体: Ca2+の放出"},
+		{"id":"2c7a5c63dedfc144","x":560,"y":560,"width":250,"height":60,"type":"text","text":"Kチャネルの活性、K+の腺腔内の放出"},
+		{"id":"ffe1a0c6c52ac370","x":55,"y":125,"width":250,"height":50,"type":"text","text":"Gs(促進性Gタンパク質)"},
+		{"id":"0f6a5e90f7a3ea3d","type":"text","text":"Gs(促進性Gタンパク質)","x":13,"y":233,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"427e828f40cc35e8","fromNode":"6b61e70f0fc5a9a0","fromSide":"bottom","toNode":"23df69f3b444110a","toSide":"top","label":"刺激"},
@@ -23,6 +26,7 @@
 		{"id":"f048953c0290c721","fromNode":"4b8a2f2b1ab4dfce","fromSide":"bottom","toNode":"fb1bb6eaa13414b1","toSide":"top"},
 		{"id":"27cfa5b2819a33d8","fromNode":"1b332c9d6e5ff028","fromSide":"bottom","toNode":"fb1bb6eaa13414b1","toSide":"top"},
 		{"id":"b4b1d36e40923c82","fromNode":"fb1bb6eaa13414b1","fromSide":"bottom","toNode":"2194452570b0454a","toSide":"top"},
-		{"id":"22b316810ba9ac41","fromNode":"2194452570b0454a","fromSide":"bottom","toNode":"93ed5886cb035398","toSide":"top"}
+		{"id":"22b316810ba9ac41","fromNode":"2194452570b0454a","fromSide":"bottom","toNode":"93ed5886cb035398","toSide":"top"},
+		{"id":"7a46d8901034e2df","fromNode":"93ed5886cb035398","fromSide":"bottom","toNode":"2c7a5c63dedfc144","toSide":"top","label":"Ca2+"}
 	]
 }
