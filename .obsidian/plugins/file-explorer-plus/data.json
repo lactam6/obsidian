@@ -46,13 +46,6 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "",
         "patternType": "WILDCARD"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "scripts",
-        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
