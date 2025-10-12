@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "器官生理_分析"
             }
+          },
+          {
+            "id": "cfcfcbc145ee37ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Info_Notes/神経生理_分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神経生理_分析"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -300,10 +323,10 @@
       "canvas:新規キャンバスを作成": false
     }
   },
-  "active": "f0a1f3b3d1bb5b78",
+  "active": "cfcfcbc145ee37ed",
   "lastOpenFiles": [
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "02_Info_Notes/器官生理_分析.md",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Pasted image 20251012232629.png",
     "03_Complete_Notes/Physiology/細胞生理.md",
     "02_Info_Notes/神経生理_分析.md",
