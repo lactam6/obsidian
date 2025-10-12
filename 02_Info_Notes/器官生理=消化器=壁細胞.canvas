@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"9b0d97b8ea293e56","x":200,"y":800,"width":290,"height":230,"type":"group","label":"腺腔"},
 		{"id":"23df69f3b444110a","x":21,"y":-4,"width":250,"height":60,"type":"text","text":"H2受容体"},
 		{"id":"6b61e70f0fc5a9a0","x":180,"y":-280,"width":250,"height":60,"type":"text","text":"ECL細胞: ヒスタミン"},
 		{"id":"af5c2c96a57f3248","x":-140,"y":-280,"width":250,"height":60,"type":"text","text":"脂肪細胞; ヒスタミン"},
@@ -17,8 +18,8 @@
 		{"id":"3e6db14434218185","x":-140,"y":240,"width":250,"height":60,"type":"text","text":"AC(アデニル酸シクラーゼ)"},
 		{"id":"d702f4cafd101f4b","x":-140,"y":400,"width":250,"height":60,"type":"text","text":"ATPをcAMPに"},
 		{"id":"ef830e6757634642","x":-140,"y":560,"width":250,"height":60,"type":"text","text":"PKC(プロテインキナーゼA)"},
-		{"id":"67c5553f6e6f1e35","x":230,"y":720,"width":250,"height":60,"type":"text","text":"Cl-の腺腔内への排出"},
-		{"id":"4c7fca7cf5d12d44","x":230,"y":500,"width":250,"height":60,"type":"text","text":"K+ｃジャメリK+の腺腔内への排出"}
+		{"id":"4c7fca7cf5d12d44","x":220,"y":1010,"width":250,"height":60,"type":"text","text":"Kチャネル: K+の腺腔内への排出"},
+		{"id":"67c5553f6e6f1e35","x":220,"y":820,"width":250,"height":60,"type":"text","text":"Cl-チャネル: Cl-の腺腔内への排出"}
 	],
 	"edges":[
 		{"id":"427e828f40cc35e8","fromNode":"6b61e70f0fc5a9a0","fromSide":"bottom","toNode":"23df69f3b444110a","toSide":"top","label":"刺激"},
