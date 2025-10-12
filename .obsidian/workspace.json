@@ -4,32 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61acaa51b6f96044",
+        "id": "3dccf2974f43d432",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b556654d3750cf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "器官生理学中間 シケタイテキスト 0920"
-            }
-          },
-          {
-            "id": "2bb9cc77bfbcc763",
+            "id": "f0a1f3b3d1bb5b78",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,8 +30,7 @@
               "title": "器官生理_分析"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,12 +300,12 @@
       "canvas:新規キャンバスを作成": false
     }
   },
-  "active": "2bb9cc77bfbcc763",
+  "active": "f0a1f3b3d1bb5b78",
   "lastOpenFiles": [
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "02_Info_Notes/器官生理_分析.md",
     "999_res/Pasted image 20251012232629.png",
     "03_Complete_Notes/Physiology/細胞生理.md",
-    "02_Info_Notes/器官生理_分析.md",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "02_Info_Notes/神経生理_分析.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Physiology/11 消化器1.pdf",
