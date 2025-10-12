@@ -1,1 +1,1 @@
-<%= tp.user.addsupsub("sub") %>
+<% tp.user.addsupsub("sub") %>
