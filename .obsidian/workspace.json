@@ -11,8 +11,14 @@
             "id": "64ec8525b59f5d36",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "無題のファイル",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"無題のファイル.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"無題のファイル\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -99,35 +105,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "a63261f6afe4a953",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd68a20922b1448f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理_イオンチャネルと興奮性膜"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -398,14 +374,16 @@
       "canvas:新規キャンバスを作成": false
     }
   },
-  "active": "dd68a20922b1448f",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
+    "無題のファイル 1.canvas",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+    "無題のファイル.canvas",
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "01_General_Notes/神経生理_イオンチャネルと興奮性膜.md",
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "02_Info_Notes/神経生理_分析.md",
     "02_Info_Notes/器官生理_分析.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
