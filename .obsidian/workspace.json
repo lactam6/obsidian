@@ -99,7 +99,8 @@
               "title": "13 消化器3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5e6a21c5011ba981",
@@ -424,14 +425,14 @@
       "canvas:新規キャンバスを作成": false
     }
   },
-  "active": "16017153645a3b1c",
+  "active": "e990838cb5d5d278",
   "lastOpenFiles": [
-    "999_res/Physiology/12 消化器2.pdf",
     "01_General_Notes/器官生理=消化器.md",
     "02_Info_Notes/器官生理=消化器 1.md",
-    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
-    "999_res/Physiology/13 消化器3.pdf",
+    "999_res/Physiology/12 消化器2.pdf",
     "999_res/Physiology/11 消化器1.pdf",
+    "999_res/Physiology/13 消化器3.pdf",
+    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
     "999_res/Physiology/8 呼吸器系.pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "Templater/templates/addsub.md",
