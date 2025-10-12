@@ -134,32 +134,29 @@
             "id": "c943b82d0f3be98b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "器官生理=消化器=壁細胞",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"02_Info_Notes/器官生理=消化器=壁細胞.canvas\",\"viewState\":{\"x\":792.5589791851284,\"y\":-664.4070504354216,\"zoom\":-1.283320674353214}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官生理=消化器=壁細胞\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "器官生理=消化器 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/器官生理=消化器 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理=消化器 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":290,\"ch\":41},\"to\":{\"line\":290,\"ch\":41}},\"scroll\":275.1383108742163}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
-                "viewState": {
-                  "x": 792.5589791851284,
-                  "y": 227.453978821555,
-                  "zoom": -1.283320674353214
-                }
+                "file": "02_Info_Notes/器官生理=消化器 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "器官生理=消化器=壁細胞"
+              "icon": "lucide-file",
+              "title": "器官生理=消化器 1"
             }
           }
         ]
@@ -411,12 +408,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -436,13 +432,13 @@
   },
   "active": "0e7ec14e2dcb5f2f",
   "lastOpenFiles": [
-    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/器官生理=消化器 1.md",
     "01_General_Notes/器官生理=消化器.md",
     "999_res/Physiology/12 消化器2.pdf",
-    "999_res/Physiology/11 消化器1.pdf",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Physiology/13 消化器3.pdf",
+    "999_res/Physiology/11 消化器1.pdf",
+    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Physiology/8 呼吸器系.pdf",
     "Templater/templates/addsub.md",
     "Templater/templates/addsup - コピー.md",
