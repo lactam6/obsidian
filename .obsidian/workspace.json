@@ -64,10 +64,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#3_活動電位1.pdf",
-                "page": 25,
-                "left": -40,
-                "top": 17,
-                "zoom": 0.375
+                "page": 11,
+                "left": -34,
+                "top": 214,
+                "zoom": 0.46354166666666663
               },
               "icon": "lucide-file-text",
               "title": "#3_活動電位1"
@@ -98,8 +98,7 @@
               "title": "#3_活動電位2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "322eb6c8f13acbe4",
@@ -381,7 +380,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -403,9 +403,9 @@
   },
   "active": "f42715956df9ddc6",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#3_活動電位2.pdf",
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
