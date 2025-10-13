@@ -74,10 +74,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/7 循環器(血管2).pdf",
-                "page": 20,
-                "left": -10,
-                "top": 387,
-                "zoom": 0.53
+                "page": 40,
+                "left": 131,
+                "top": 466,
+                "zoom": 1.02
               },
               "icon": "lucide-file-text",
               "title": "7 循環器(血管2)"
@@ -474,10 +474,12 @@
   },
   "active": "402f3db9322be777",
   "lastOpenFiles": [
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "03_Complete_Notes/21_Physiology/器官_05_血管.md",
-    "999_res/Physiology/7 循環器(血管2).pdf",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
+    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
+    "999_res/Physiology/7 循環器(血管2).pdf",
     "999_res/Physiology/6 循環器(血管1).pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
@@ -489,11 +491,9 @@
     "999_res/Physiology/4 循環器(心臓1).pdf",
     "999_res/Physiology/#6_問題.pdf",
     "999_res/Physiology/#1_問題.pdf",
-    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "999_res/Physiology/8 呼吸器系.pdf",
     "999_res/Physiology/10 呼吸器系3.pdf",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
-    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
