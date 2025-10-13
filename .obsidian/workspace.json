@@ -64,16 +64,42 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#3_活動電位1.pdf",
-                "page": 2,
+                "page": 25,
                 "left": -40,
-                "top": 452,
+                "top": 17,
                 "zoom": 0.375
               },
               "icon": "lucide-file-text",
               "title": "#3_活動電位1"
             }
+          },
+          {
+            "id": "587692f956d6c419",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#3_活動電位2.pdf",
+                "page": 3,
+                "left": -40,
+                "top": 262,
+                "zoom": 0.39479166666666665
+              },
+              "icon": "lucide-file-text",
+              "title": "#3_活動電位2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "322eb6c8f13acbe4",
@@ -186,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -354,8 +381,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -375,15 +401,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "212e8848cc38e455",
+  "active": "f42715956df9ddc6",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
+    "999_res/Neural Physiology/#3_活動電位2.pdf",
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-    "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#3_活動電位3.pdf",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
