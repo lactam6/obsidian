@@ -25,15 +25,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "file-explorer:new-folder": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
   "workspace:undo-close-pane": [],
   "workspace:new-tab": [],
   "webviewer:open": [
@@ -88,6 +79,16 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "global-search:open": [],
+  "templater-obsidian:Templater/templates/newfolder.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
     }
   ]
 }

@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templater/templates/addsup.md",
-    "Templater/templates/addsub.md"
+    "Templater/templates/addsub.md",
+    "Templater/templates/newfolder.md"
   ],
   "startup_templates": [
     ""
