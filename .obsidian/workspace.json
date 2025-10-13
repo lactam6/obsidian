@@ -24,17 +24,17 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-                "page": 17,
-                "left": 113,
-                "top": 43,
-                "zoom": 0.9
+                "page": 25,
+                "left": 34,
+                "top": 734,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
             }
           },
           {
-            "id": "5c99916e6ceb61f8",
+            "id": "b224e5a0dac01064",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -48,17 +48,68 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Physiology/3 筋肉.pdf",
-                "page": 31,
-                "left": 147,
-                "top": 104,
-                "zoom": 0.6
+                "file": "999_res/Physiology/8 呼吸器系.pdf",
+                "page": 16,
+                "left": 2,
+                "top": 686,
+                "zoom": 0.4
               },
               "icon": "lucide-file-text",
-              "title": "3 筋肉"
+              "title": "8 呼吸器系"
+            }
+          },
+          {
+            "id": "dad6f79fa156e6d7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/9 呼吸器系2.pdf",
+                "page": 15,
+                "left": -50,
+                "top": 515,
+                "zoom": 0.27
+              },
+              "icon": "lucide-file-text",
+              "title": "9 呼吸器系2"
+            }
+          },
+          {
+            "id": "95866c538416b398",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/10 呼吸器系3.pdf",
+                "page": 13,
+                "left": 72,
+                "top": 253,
+                "zoom": 0.41
+              },
+              "icon": "lucide-file-text",
+              "title": "10 呼吸器系3"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -117,7 +168,8 @@
               "title": "器官_00_分析"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "24e6c8910fde27b4",
@@ -125,7 +177,7 @@
         "dimension": 38.53887399463807,
         "children": [
           {
-            "id": "826e339c10a915a8",
+            "id": "540641c1a21bef99",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -139,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
+                "file": "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官_02_筋肉"
+              "title": "器官_03_呼吸"
             }
           },
           {
@@ -254,8 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -445,14 +496,18 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "13de5c3307d7a83a",
+  "active": "540641c1a21bef99",
   "lastOpenFiles": [
+    "999_res/Physiology/10 呼吸器系3.pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-    "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
-    "999_res/Physiology/3 筋肉.pdf",
-    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
+    "999_res/Physiology/9 呼吸器系2.pdf",
+    "999_res/Physiology/8 呼吸器系.pdf",
+    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
+    "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
+    "999_res/Physiology/3 筋肉.pdf",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
@@ -477,7 +532,6 @@
     "03_Complete_Notes/21_Physiology/器官_06_消化_タンパク質の消化と吸収.canvas",
     "03_Complete_Notes/21_Physiology/器官_06_消化.md",
     "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
-    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_心臓.md",
     "02_Info_Notes/21_Physiology/器官_分析.md",
     "03_Complete_Notes/21_Physiology/細胞生理.md",
@@ -490,8 +544,6 @@
     "02_Info_Notes/無題のファイル.md",
     "02_Info_Notes/21_Physiology",
     "無題のフォルダ",
-    "無題のフォルダ 1",
-    "01_General_Notes/21_Physiology",
     "999_res/Pasted image 20251012232629.png",
     "999_res/Pasted image 20251012000632.png"
   ]
