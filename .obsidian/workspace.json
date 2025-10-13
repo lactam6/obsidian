@@ -4,178 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "65a5a0756f944407",
+        "id": "86d97744f8af7146",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0a9bd29e7f5c90",
+            "id": "26dad59d7047c504",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "無題のファイル",
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "器官_02_筋肉",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/無題のファイル.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"無題のファイル\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官_02_筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_02_筋肉\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "器官生理_分析",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":174,\"ch\":53},\"to\":{\"line\":174,\"ch\":53}},\"scroll\":164.67992131897785}"
-                },
-                {
-                  "title": "器官_循環_交感神経の作用",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"999_res/Physiology/器官_循環_交感神経の作用.canvas\",\"viewState\":{\"x\":-377.8885022608982,\"y\":318.44239044237213,\"zoom\":-1.1477782983532536}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_循環_交感神経の作用\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "器官_消化_タンパク質の吸収と分解",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"999_res/Physiology/器官_消化_タンパク質の吸収と分解.canvas\",\"viewState\":{\"x\":-564.5,\"y\":410,\"zoom\":-1.0787597328772784}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_消化_タンパク質の吸収と分解\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
-                "viewState": {
-                  "x": 462.5,
-                  "y": 255,
-                  "zoom": -1.0880975974566147
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "器官生理=消化器=壁細胞"
-            }
-          },
-          {
-            "id": "89caba7045bcb452",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/21_Physiology/器官生理_分析.md",
+                "file": "02_Info_Notes/21_Physiology/器官_01_細胞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官生理_分析"
-            }
-          },
-          {
-            "id": "6a85dc2ceaf05ea6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/21_Physiology/器官生理=消化器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "器官生理=消化器"
-            }
-          },
-          {
-            "id": "a83655b85678bb68",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "無題のファイル",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/無題のファイル.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"無題のファイル\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "神経生理_イオンチャネルと興奮性膜",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理_イオンチャネルと興奮性膜\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas\",\"viewState\":{\"x\":225,\"y\":170,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "器官生理_分析",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "器官生理=消化器",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理=消化器.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理=消化器\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":16.833334284599395}"
-                },
-                {
-                  "title": "器官生理_分析",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":5},\"to\":{\"line\":16,\"ch\":5}},\"scroll\":0}"
-                },
-                {
-                  "title": "器官生理=消化器",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/21_Physiology/器官生理=消化器.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理=消化器\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":0},\"to\":{\"line\":51,\"ch\":0}},\"scroll\":46.86026407474015}"
-                },
-                {
-                  "title": "器官生理=消化器=壁細胞",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas\",\"viewState\":{\"x\":462.5,\"y\":255,\"zoom\":-1.0880975974566147}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官生理=消化器=壁細胞\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理_イオンチャネルと興奮性膜"
+              "title": "器官_01_細胞"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 417.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -445,20 +306,47 @@
       "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "d9073234f208c51c",
+  "active": "26dad59d7047c504",
   "lastOpenFiles": [
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
+    "03_Complete_Notes/21_Physiology/Excel 2025-10-13 14.18.57.sheet.md",
+    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
+    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
+    "02_Info_Notes/21_Physiology/器官_01_細胞.md",
+    "02_Info_Notes/21_Physiology/器官_06_消化.md",
+    "02_Info_Notes/21_Physiology/器官_消化.md",
+    "03_Complete_Notes/21_Physiology/器官_06_消化_膵液の分泌.canvas",
+    "02_Info_Notes/21_Physiology/器官_05_血管.md",
+    "02_Info_Notes/21_Physiology/器官_04_心臓.md",
+    "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
+    "03_Complete_Notes/21_Physiology/器官_06_消化_壁細胞.canvas",
+    "03_Complete_Notes/21_Physiology/器官_06_消化_糖質の消化と吸収.canvas",
+    "03_Complete_Notes/21_Physiology/器官_06_消化_自律神経の消化管支配.canvas",
+    "03_Complete_Notes/21_Physiology/器官_06_消化_ペプチドホルモン.canvas",
+    "03_Complete_Notes/21_Physiology/器官_06_消化_タンパク質の消化と吸収.canvas",
+    "03_Complete_Notes/21_Physiology/器官_05_血管_交感神経の作用.canvas",
+    "03_Complete_Notes/21_Physiology/器官_06_消化.md",
+    "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
+    "03_Complete_Notes/21_Physiology/器官_05_血管.md",
+    "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
+    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
+    "03_Complete_Notes/21_Physiology/器官_心臓.md",
+    "02_Info_Notes/21_Physiology/器官_分析.md",
+    "03_Complete_Notes/21_Physiology/細胞生理.md",
+    "03_Complete_Notes/21_Physiology/筋肉.md",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
+    "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas",
+    "999_res/Physiology/器官_消化_ペプチドホルモン.canvas",
     "03_Complete_Notes/22_Neural_Physiology",
     "01_General_Notes/22_Neural_Physiology",
     "02_Info_Notes/22_Neural_Physiology",
-    "02_Info_Notes/21_Physiology/器官生理_分析.md",
-    "02_Info_Notes/21_Physiology/器官生理=消化器.md",
-    "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/無題のファイル.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
-    "999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas",
     "02_Info_Notes/無題のファイル 1.md",
     "02_Info_Notes/21_Physiology",
     "無題のフォルダ",
@@ -469,33 +357,8 @@
     "Templater/scripts/newfolder.js",
     "03_Complete_Notes/Physiology/Untitled 1.md",
     "03_Complete_Notes/Physiology/Untitled.md",
-    "999_res/Physiology/器官_循環_交感神経の作用.canvas",
-    "999_res/Physiology/器官_消化_タンパク質の吸収と分解.canvas",
-    "999_res/Physiology/閹ｵ豸ｲ蛻・ｳ.canvas",
-    "999_res/Physiology/轤ｭ豌ｴ蛹也黄豸亥喧.canvas",
-    "999_res/Physiology/豸亥喧邂｡繝帙Ν繝｢繝ｳ.canvas",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
-    "999_res/Neural Physiology/#3_活動電位2.pdf",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
-    "無題のファイル.canvas",
-    "無題のファイル 1.canvas",
-    "01_General_Notes/神経生理_イオンチャネルと興奮性膜.md",
-    "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
     "999_res/Pasted image 20251012232629.png",
-    "03_Complete_Notes/21_Physiology/細胞生理.md",
-    "999_res/Neural Physiology/#9_小テスト.md",
-    "999_res/Neural Physiology/#8_小テスト.md",
-    "999_res/Neural Physiology/#3_小テスト.md",
-    "999_res/Neural Physiology/#2_小テスト.md",
-    "999_res/Neural Physiology/#12_小テスト.md",
-    "999_res/Neural Physiology/#11_小テスト.md",
-    "999_res/Neural Physiology/#10_小テスト.md",
-    "Templater/templates/addsup.md",
-    "Templater/templates/addsub.md",
-    "Templater/templates/addsup - コピー.md",
-    "Templater/templates/addsupsub.md",
-    "01_General_Notes/無題のファイル.md",
-    "999_res/Physiology/無題のファイル 1.md",
     "999_res/Pasted image 20251012000632.png"
   ]
 }

@@ -90,5 +90,9 @@
       ],
       "key": "N"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "obsidian-editor-shortcuts:insertLineBelow": [],
+  "editor:toggle-checklist-status": [],
+  "editor:delete-paragraph": []
 }
