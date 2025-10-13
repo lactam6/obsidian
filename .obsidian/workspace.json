@@ -6,7 +6,7 @@
       {
         "id": "bcce1ba481f92e07",
         "type": "tabs",
-        "dimension": 32.9088471849866,
+        "dimension": 42.292225201072384,
         "children": [
           {
             "id": "58ea2b43c49f98d1",
@@ -25,8 +25,8 @@
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
                 "page": 25,
-                "left": 67,
-                "top": 569,
+                "left": 297,
+                "top": 625,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -49,10 +49,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/8 呼吸器系.pdf",
-                "page": 16,
-                "left": 2,
-                "top": 686,
-                "zoom": 0.4
+                "page": 18,
+                "left": -321,
+                "top": 140,
+                "zoom": 0.28
               },
               "icon": "lucide-file-text",
               "title": "8 呼吸器系"
@@ -74,10 +74,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/9 呼吸器系2.pdf",
-                "page": 8,
-                "left": 80,
-                "top": 222,
-                "zoom": 0.7
+                "page": 6,
+                "left": -16,
+                "top": 549,
+                "zoom": 0.29
               },
               "icon": "lucide-file-text",
               "title": "9 呼吸器系2"
@@ -99,21 +99,22 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/10 呼吸器系3.pdf",
-                "page": 16,
-                "left": 1,
-                "top": 464,
+                "page": 1,
+                "left": 23,
+                "top": 595,
                 "zoom": 0.41
               },
               "icon": "lucide-file-text",
               "title": "10 呼吸器系3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "49ba9ed2e6ff65b5",
         "type": "tabs",
-        "dimension": 28.55227882037534,
+        "dimension": 27.61394101876676,
         "children": [
           {
             "id": "de0da4ad0e39ee1d",
@@ -167,7 +168,7 @@
       {
         "id": "24e6c8910fde27b4",
         "type": "tabs",
-        "dimension": 38.53887399463807,
+        "dimension": 30.093833780160857,
         "children": [
           {
             "id": "540641c1a21bef99",
@@ -299,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -489,16 +491,16 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "540641c1a21bef99",
+  "active": "b224e5a0dac01064",
   "lastOpenFiles": [
-    "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
-    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "999_res/Physiology/8 呼吸器系.pdf",
     "999_res/Physiology/9 呼吸器系2.pdf",
     "999_res/Physiology/10 呼吸器系3.pdf",
+    "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "999_res/Physiology/3 筋肉.pdf",
