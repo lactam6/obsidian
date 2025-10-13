@@ -74,10 +74,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/5 循環器(心臓2).pdf",
-                "page": 5,
-                "left": -27,
-                "top": 71,
-                "zoom": 0.6031250000000001
+                "page": 30,
+                "left": -22,
+                "top": 428,
+                "zoom": 0.61
               },
               "icon": "lucide-file-text",
               "title": "5 循環器(心臓2)"
@@ -465,10 +465,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "d2537365cbb4e202",
+  "active": "2b662cade7129d98",
   "lastOpenFiles": [
-    "999_res/Physiology/5 循環器(心臓2).pdf",
     "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
+    "999_res/Physiology/5 循環器(心臓2).pdf",
     "999_res/Physiology/4 循環器(心臓1).pdf",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
