@@ -25,8 +25,8 @@
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
                 "page": 25,
-                "left": 57,
-                "top": 691,
+                "left": 67,
+                "top": 569,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -489,10 +489,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "190c2337b2af3199",
+  "active": "540641c1a21bef99",
   "lastOpenFiles": [
-    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
+    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
