@@ -49,10 +49,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/3 筋肉.pdf",
-                "page": 9,
-                "left": 0,
-                "top": 72,
-                "zoom": 0.62
+                "page": 32,
+                "left": 226,
+                "top": 548,
+                "zoom": 0.76
               },
               "icon": "lucide-file-text",
               "title": "3 筋肉"
@@ -449,9 +449,9 @@
   },
   "active": "826e339c10a915a8",
   "lastOpenFiles": [
-    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
-    "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "999_res/Physiology/3 筋肉.pdf",
+    "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
+    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
