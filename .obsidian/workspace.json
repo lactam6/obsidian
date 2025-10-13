@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8044d399d0bd5702",
+        "id": "65a5a0756f944407",
         "type": "tabs",
-        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "1a7fe2d777b6f50c",
+            "id": "5e0a9bd29e7f5c90",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -19,102 +18,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "神経生理中間シケタイ_修正提案用 - Google ドキュメント",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=%E3%81%8A%E7%96%B2%E3%82%8C%E6%A7%98%E3%81%A7%E3%81%99%E3%80%82%E7%A5%9E%E7%B5%8C%E7%94%9F%E7%90%86%E4%B8%AD%E9%96%93%E3%81%AE%E3%82%B7%E3%82%B1%E3%82%BF%E3%82%A4%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%E7%AD%94%E3%81%88%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%AE%87%E6%89%80%E3%82%82%E5%A4%9A%E3%81%84%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%86+https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY%2Fedit%3Fusp%3Dsharing&ia=web\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
+                  "title": "器官_循環_交感神経の作用",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"999_res/Physiology/器官_循環_交感神経の作用.canvas\",\"viewState\":{\"x\":-377.8885022608982,\"y\":318.44239044237213,\"zoom\":-1.1477782983532536}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_循環_交感神経の作用\"}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "お疲れ様です。神経生理中間のシケタイテキストを作りました。よかったら使ってください!答え間違っている箇所も多いかと思う https://docs.google.com/document/d/1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY/edit?usp=sharing at DuckDuckGo",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=%E3%81%8A%E7%96%B2%E3%82%8C%E6%A7%98%E3%81%A7%E3%81%99%E3%80%82%E7%A5%9E%E7%B5%8C%E7%94%9F%E7%90%86%E4%B8%AD%E9%96%93%E3%81%AE%E3%82%B7%E3%82%B1%E3%82%BF%E3%82%A4%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%E7%AD%94%E3%81%88%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%AE%87%E6%89%80%E3%82%82%E5%A4%9A%E3%81%84%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%86%20https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY%2Fedit%3Fusp%3Dsharing\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                }
-              ]
-            },
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://docs.google.com/document/d/1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY/edit?tab=t.0",
-                "title": "神経生理中間シケタイ_修正提案用 - Google ドキュメント",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "神経生理中間シケタイ_修正提案用 - Google ドキュメント"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3969ef34dafcdba5",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "212e8848cc38e455",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#3_活動電位1.pdf",
-                "page": 22,
-                "left": -34,
-                "top": 189,
-                "zoom": 0.46354166666666663
-              },
-              "icon": "lucide-file-text",
-              "title": "#3_活動電位1"
-            }
-          },
-          {
-            "id": "587692f956d6c419",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#3_活動電位2.pdf",
-                "page": 3,
-                "left": -40,
-                "top": 262,
-                "zoom": 0.39479166666666665
-              },
-              "icon": "lucide-file-text",
-              "title": "#3_活動電位2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "322eb6c8f13acbe4",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "f42715956df9ddc6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
+                  "title": "器官_消化_タンパク質の吸収と分解",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"999_res/Physiology/器官_消化_タンパク質の吸収と分解.canvas\",\"viewState\":{\"x\":-564.5,\"y\":410,\"zoom\":-1.0787597328772784}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_消化_タンパク質の吸収と分解\"}",
                   "eState": "{}"
                 }
               ]
@@ -122,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+                "file": "02_Info_Notes/器官生理_分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神経生理_イオンチャネルと興奮性膜"
+              "title": "器官生理_分析"
             }
           }
         ]
@@ -214,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 487.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -404,10 +315,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f42715956df9ddc6",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#3_活動電位1.pdf",
+    "無題のフォルダ",
+    "03_Complete_Notes/Physiology/Untitled 1.md",
+    "03_Complete_Notes/Physiology/Untitled.md",
+    "999_res/Physiology/器官_循環_交感神経の作用.canvas",
+    "999_res/Physiology/器官_消化_タンパク質の吸収と分解.canvas",
+    "999_res/Physiology/閹ｵ豸ｲ蛻・ｳ.canvas",
+    "999_res/Physiology/轤ｭ豌ｴ蛹也黄豸亥喧.canvas",
+    "999_res/Physiology/豸亥喧邂｡繝帙Ν繝｢繝ｳ.canvas",
+    "999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas",
     "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/#3_活動電位1.pdf",
     "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
@@ -443,8 +363,6 @@
     "00_Daily_Notes/2025-10-12.md",
     "03_Complete_Notes/Physiology/筋肉.md",
     "2025-10-12.md",
-    "999_res/Pasted image 20251012000632.png",
-    "03_Complete_Notes/Physiology/Untitled 1.md",
-    "2025-10-11.md"
+    "999_res/Pasted image 20251012000632.png"
   ]
 }

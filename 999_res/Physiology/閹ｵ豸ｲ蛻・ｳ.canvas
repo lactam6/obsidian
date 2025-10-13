@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"c8b158ebcd010085","type":"group","x":-200,"y":120,"width":830,"height":260,"color":"6","label":"腸相"},
+		{"id":"ce0f68a6278687d6","type":"group","x":-180,"y":180,"width":290,"height":180,"label":"十二指腸内分泌細胞"},
+		{"id":"eaf0541c1e150bfc","type":"group","x":320,"y":180,"width":290,"height":180,"label":"膵臓"},
+		{"id":"a44dea128bf95120","type":"group","x":-280,"y":-300,"width":290,"height":178,"label":"脳相"},
+		{"id":"711741ed91ff1ccc","type":"group","x":-280,"y":-60,"width":288,"height":104,"label":"胃相"},
+		{"id":"f7e2565e62ad6eb9","type":"text","text":"I細胞","x":-160,"y":200,"width":250,"height":60},
+		{"id":"20a8d22140acde30","type":"text","text":"S細胞","x":-160,"y":280,"width":250,"height":60},
+		{"id":"fdef9ca9188a9d71","type":"text","text":"腺房細胞","x":340,"y":200,"width":250,"height":60},
+		{"id":"6ed855e9925d7f6f","type":"text","text":"導管細胞","x":340,"y":280,"width":250,"height":60},
+		{"id":"40a19444a8087f6a","type":"text","text":"H2O","x":700,"y":240,"width":250,"height":60},
+		{"id":"b131c8a8646b5a7a","type":"text","text":"膵液分泌","x":160,"y":-160,"width":250,"height":60},
+		{"id":"d47158cc44d4b2c3","type":"text","text":"胃","x":-262,"y":-40,"width":250,"height":60},
+		{"id":"945ef6bd31e0734b","type":"text","text":"HCO3-","x":700,"y":320,"width":250,"height":60},
+		{"id":"365a0b29be3b34f4","type":"text","text":"膵消化酵素","x":700,"y":160,"width":250,"height":60},
+		{"id":"fadc5b54c9b6c32b","type":"text","text":"視覚，嗅覚刺激","x":-260,"y":-280,"width":250,"height":60},
+		{"id":"f0201b74a2085a02","type":"text","text":"口腔，食道刺激","x":-260,"y":-202,"width":250,"height":60},
+		{"id":"bcb75a69ce4cb6f5","type":"text","text":"迷走神経","x":160,"y":-360,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"adf75f2894c58210","fromNode":"fadc5b54c9b6c32b","fromSide":"right","toNode":"b131c8a8646b5a7a","toSide":"left","color":"4"},
+		{"id":"d8f340fee26e7d3d","fromNode":"f0201b74a2085a02","fromSide":"right","toNode":"b131c8a8646b5a7a","toSide":"left","color":"4"},
+		{"id":"11d694e06ba9da74","fromNode":"d47158cc44d4b2c3","fromSide":"right","toNode":"b131c8a8646b5a7a","toSide":"left","color":"4","label":"伸展刺激"},
+		{"id":"68757e1c9394a3c8","fromNode":"6ed855e9925d7f6f","fromSide":"right","toNode":"945ef6bd31e0734b","toSide":"left"},
+		{"id":"8813b1120600b431","fromNode":"f7e2565e62ad6eb9","fromSide":"right","toNode":"fdef9ca9188a9d71","toSide":"left","label":"コレシストキニン"},
+		{"id":"5ed32505acbe5726","fromNode":"20a8d22140acde30","fromSide":"right","toNode":"6ed855e9925d7f6f","toSide":"left","label":"セクレチン"},
+		{"id":"055b4e8d09b8439d","fromNode":"d47158cc44d4b2c3","fromSide":"left","toNode":"ce0f68a6278687d6","toSide":"left","label":"胃酸，アミノ酸，脂肪"},
+		{"id":"5552b3cdb7f70128","fromNode":"6ed855e9925d7f6f","fromSide":"right","toNode":"40a19444a8087f6a","toSide":"left"},
+		{"id":"07d423e50b90c4a6","fromNode":"fdef9ca9188a9d71","fromSide":"right","toNode":"365a0b29be3b34f4","toSide":"left"}
+	]
+}
