@@ -4,11 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "86d97744f8af7146",
+        "id": "49ba9ed2e6ff65b5",
         "type": "tabs",
         "children": [
           {
-            "id": "26dad59d7047c504",
+            "id": "70007856dc272601",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/1 体液・細胞膜.pdf",
+                "page": 12,
+                "left": -22,
+                "top": 485,
+                "zoom": 0.7229166666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "1 体液・細胞膜"
+            }
+          }
+        ]
+      },
+      {
+        "id": "24e6c8910fde27b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1615a2f0807fa159",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,9 +49,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "器官_02_筋肉",
+                  "title": "器官_00_分析",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官_02_筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_02_筋肉\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_00_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_00_分析\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -28,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/21_Physiology/器官_01_細胞.md",
+                "file": "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
                 "mode": "source",
                 "source": false
               },
@@ -120,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 417.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -284,11 +316,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 446.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -303,20 +335,25 @@
       "obsidian-memos:Thino": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
+      "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "excel:Create Excel File": false
     }
   },
-  "active": "26dad59d7047c504",
+  "active": "1615a2f0807fa159",
   "lastOpenFiles": [
-    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
-    "03_Complete_Notes/21_Physiology/Excel 2025-10-13 14.18.57.sheet.md",
+    "999_res/Physiology/1 体液・細胞膜.pdf",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
+    "Excel 2025-10-13 14.28.57.sheet.md",
+    "01_General_Notes/21_Physiology/器官生理=消化器.md",
+    "Excel 2025-10-13 14.28.46.sheet.md",
+    "Excel 2025-10-13 14.27.36.sheet.md",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
+    "03_Complete_Notes/21_Physiology/Excel 2025-10-13 14.18.57.sheet.md",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_消化.md",
     "03_Complete_Notes/21_Physiology/器官_06_消化_膵液の分泌.canvas",
@@ -347,16 +384,11 @@
     "02_Info_Notes/22_Neural_Physiology",
     "02_Info_Notes/無題のファイル.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
-    "02_Info_Notes/無題のファイル 1.md",
     "02_Info_Notes/21_Physiology",
     "無題のフォルダ",
     "無題のフォルダ 1",
-    "01_General_Notes/21_Physiology/器官生理=消化器.md",
     "01_General_Notes/21_Physiology",
-    "Templater/templates/newfolder.md",
     "Templater/scripts/newfolder.js",
-    "03_Complete_Notes/Physiology/Untitled 1.md",
-    "03_Complete_Notes/Physiology/Untitled.md",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
     "999_res/Pasted image 20251012232629.png",
     "999_res/Pasted image 20251012000632.png"

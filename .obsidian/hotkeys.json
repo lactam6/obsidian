@@ -94,5 +94,23 @@
   "table-editor-obsidian:table-control-bar": [],
   "obsidian-editor-shortcuts:insertLineBelow": [],
   "editor:toggle-checklist-status": [],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
 }
