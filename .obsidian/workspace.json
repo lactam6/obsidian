@@ -23,10 +23,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/1 体液・細胞膜.pdf",
-                "page": 47,
-                "left": -28,
-                "top": 129,
-                "zoom": 0.571875
+                "page": 27,
+                "left": 1,
+                "top": 166,
+                "zoom": 0.62
               },
               "icon": "lucide-file-text",
               "title": "1 体液・細胞膜"
@@ -42,8 +42,14 @@
             "id": "1615a2f0807fa159",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas\",\"viewState\":{\"x\":396.9131018575104,\"y\":352.3126950634418,\"zoom\":-0.8423478186925255}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -247,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 481.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -439,8 +445,9 @@
   },
   "active": "1615a2f0807fa159",
   "lastOpenFiles": [
-    "999_res/Physiology/1 体液・細胞膜.pdf",
+    "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
+    "999_res/Physiology/1 体液・細胞膜.pdf",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
@@ -473,7 +480,6 @@
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas",
-    "999_res/Physiology/器官_消化_ペプチドホルモン.canvas",
     "03_Complete_Notes/22_Neural_Physiology",
     "01_General_Notes/22_Neural_Physiology",
     "02_Info_Notes/22_Neural_Physiology",

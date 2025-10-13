@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"8d0497f9c1f7600d","type":"text","text":"PIP2","x":-184,"y":-184,"width":250,"height":60},
+		{"id":"51d64f60a493ee91","type":"text","text":"PIP3","x":-184,"y":-40,"width":250,"height":60},
+		{"id":"dcc79c72e03581c9","type":"text","text":"Akt(PKB)","x":180,"y":-40,"width":250,"height":60},
+		{"id":"d0359fdda467048e","type":"text","text":"細胞増殖\n生存シグナル","x":180,"y":91,"width":250,"height":60},
+		{"id":"2da08483cbc16cb2","type":"text","text":"PIP2 = PI (4, 5) P2","x":-184,"y":180,"width":250,"height":60},
+		{"id":"db4ac22a6bc3a082","x":-380,"y":436,"width":250,"height":60,"type":"text","text":"IP3"},
+		{"id":"dfe4edcbcdb5dea0","x":0,"y":436,"width":250,"height":60,"type":"text","text":"DG"},
+		{"id":"2ce8e9d30b74ef33","type":"text","text":"PLC + Gqによる加水分解","x":-184,"y":280,"width":250,"height":60},
+		{"id":"9467797b5285e5ba","x":-380,"y":560,"width":250,"height":60,"type":"text","text":"小胞体\nミトコンドリア"},
+		{"id":"0a1c90d9219bf9b6","x":-380,"y":820,"width":250,"height":60,"type":"text","text":"Ca2+放出"},
+		{"id":"9561e2c2d86d0e8a","x":400,"y":436,"width":250,"height":60,"type":"text","text":"PKC"}
+	],
+	"edges":[
+		{"id":"fb0ba0718f2be941","fromNode":"8d0497f9c1f7600d","fromSide":"bottom","toNode":"51d64f60a493ee91","toSide":"top","label":"PI3Kinaseによるリン酸化"},
+		{"id":"91a189c35c7555a5","fromNode":"dcc79c72e03581c9","fromSide":"bottom","toNode":"d0359fdda467048e","toSide":"top"},
+		{"id":"ff93eacf9ccb2e63","fromNode":"2da08483cbc16cb2","fromSide":"bottom","toNode":"2ce8e9d30b74ef33","toSide":"top"},
+		{"id":"944455e64a62e292","fromNode":"2ce8e9d30b74ef33","fromSide":"bottom","toNode":"db4ac22a6bc3a082","toSide":"top"},
+		{"id":"c34dde4e26053d2e","fromNode":"2ce8e9d30b74ef33","fromSide":"bottom","toNode":"dfe4edcbcdb5dea0","toSide":"top"},
+		{"id":"477c1cf3faaa8bce","fromNode":"51d64f60a493ee91","fromSide":"right","toNode":"dcc79c72e03581c9","toSide":"left","label":"活性化"},
+		{"id":"c5f733013f75fffb","fromNode":"db4ac22a6bc3a082","fromSide":"bottom","toNode":"9467797b5285e5ba","toSide":"top"},
+		{"id":"186f7453e7ab1f59","fromNode":"9467797b5285e5ba","fromSide":"bottom","toNode":"0a1c90d9219bf9b6","toSide":"top","label":"放出"},
+		{"id":"f2acb77a3bb914b6","fromNode":"dfe4edcbcdb5dea0","fromSide":"right","toNode":"9561e2c2d86d0e8a","toSide":"left","label":"活性化"}
+	]
+}
