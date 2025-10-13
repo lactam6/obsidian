@@ -49,7 +49,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36803aa5dd778a38",
+            "id": "212e8848cc38e455",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -63,70 +63,17 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "#2_イオンチャネルと興奮性膜1"
-            }
-          },
-          {
-            "id": "cc8f985bc0038c48",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
-                "page": 15,
+                "file": "999_res/Neural Physiology/#3_活動電位1.pdf",
+                "page": 2,
                 "left": -40,
-                "top": 39,
+                "top": 452,
                 "zoom": 0.375
               },
               "icon": "lucide-file-text",
-              "title": "#2_イオンチャネルと興奮性膜2"
-            }
-          },
-          {
-            "id": "75a23a73dd9342df",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "#3_活動電位1",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"999_res/Neural Physiology/#3_活動電位1.pdf\",\"page\":24,\"left\":-40,\"top\":202,\"zoom\":0.375},\"icon\":\"lucide-file-text\",\"title\":\"#3_活動電位1\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
-                "page": 10,
-                "left": -120,
-                "top": 61,
-                "zoom": 0.38
-              },
-              "icon": "lucide-file-text",
-              "title": "#2_イオンチャネルと興奮性膜3"
+              "title": "#3_活動電位1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "322eb6c8f13acbe4",
@@ -239,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -429,18 +375,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f42715956df9ddc6",
+  "active": "212e8848cc38e455",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#3_活動電位3.pdf",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
     "01_General_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/神経生理_分析.md",
     "02_Info_Notes/器官生理_分析.md",
