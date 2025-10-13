@@ -6,6 +6,7 @@
       {
         "id": "8044d399d0bd5702",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "1a7fe2d777b6f50c",
@@ -47,6 +48,7 @@
       {
         "id": "3969ef34dafcdba5",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "212e8848cc38e455",
@@ -64,9 +66,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#3_活動電位1.pdf",
-                "page": 11,
+                "page": 22,
                 "left": -34,
-                "top": 214,
+                "top": 189,
                 "zoom": 0.46354166666666663
               },
               "icon": "lucide-file-text",
@@ -103,6 +105,7 @@
       {
         "id": "322eb6c8f13acbe4",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "f42715956df9ddc6",
