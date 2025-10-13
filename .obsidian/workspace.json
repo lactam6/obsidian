@@ -62,6 +62,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "無題のファイル",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/無題のファイル.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"無題のファイル\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "神経生理_イオンチャネルと興奮性膜",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理_イオンチャネルと興奮性膜\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas\",\"viewState\":{\"x\":225,\"y\":170,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "器官生理_分析",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
@@ -94,21 +112,17 @@
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas",
-                "viewState": {
-                  "x": 225,
-                  "y": 170,
-                  "zoom": 0
-                }
+                "file": "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡"
+              "icon": "lucide-file",
+              "title": "神経生理_イオンチャネルと興奮性膜"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 301.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -381,18 +395,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a83655b85678bb68",
+  "active": "5e0a9bd29e7f5c90",
   "lastOpenFiles": [
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
+    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
+    "02_Info_Notes/無題のファイル.md",
+    "999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas",
     "02_Info_Notes/器官生理_分析.md",
     "02_Info_Notes/無題のファイル 1.md",
     "02_Info_Notes/器官生理=消化器.md",
     "02_Info_Notes/physiology",
     "無題のフォルダ",
     "無題のフォルダ 1",
-    "02_Info_Notes/無題のファイル.md",
     "01_General_Notes/21_Physiology/器官生理=消化器.md",
     "01_General_Notes/21_Physiology",
-    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
     "Templater/templates/newfolder.md",
     "Templater/scripts/newfolder.js",
     "03_Complete_Notes/Physiology/Untitled 1.md",
@@ -402,8 +418,6 @@
     "999_res/Physiology/閹ｵ豸ｲ蛻・ｳ.canvas",
     "999_res/Physiology/轤ｭ豌ｴ蛹也黄豸亥喧.canvas",
     "999_res/Physiology/豸亥喧邂｡繝帙Ν繝｢繝ｳ.canvas",
-    "999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas",
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
     "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
@@ -428,7 +442,6 @@
     "Templater/templates/addsupsub.md",
     "01_General_Notes/無題のファイル.md",
     "999_res/Physiology/無題のファイル 1.md",
-    "00_Daily_Notes/2025-10-12.md",
     "999_res/Pasted image 20251012000632.png"
   ]
 }
