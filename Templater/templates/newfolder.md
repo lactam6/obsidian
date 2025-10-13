@@ -1,1 +1,3 @@
-<%* await tp.user.newfolder(tp) %>
+<%* 
+await tp.user.create_folder(tp);
+%>
