@@ -24,10 +24,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-                "page": 25,
-                "left": 297,
-                "top": 625,
-                "zoom": 1.3
+                "page": 26,
+                "left": 13,
+                "top": 160,
+                "zoom": 0.83
               },
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
@@ -49,10 +49,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/8 呼吸器系.pdf",
-                "page": 18,
-                "left": -321,
-                "top": 140,
-                "zoom": 0.28
+                "page": 14,
+                "left": 40,
+                "top": 20,
+                "zoom": 0.54
               },
               "icon": "lucide-file-text",
               "title": "8 呼吸器系"
@@ -100,7 +100,7 @@
               "state": {
                 "file": "999_res/Physiology/10 呼吸器系3.pdf",
                 "page": 1,
-                "left": 23,
+                "left": -146,
                 "top": 595,
                 "zoom": 0.41
               },
@@ -108,8 +108,7 @@
               "title": "10 呼吸器系3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -491,14 +490,14 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "b224e5a0dac01064",
+  "active": "190c2337b2af3199",
   "lastOpenFiles": [
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
-    "999_res/Physiology/8 呼吸器系.pdf",
-    "999_res/Physiology/9 呼吸器系2.pdf",
-    "999_res/Physiology/10 呼吸器系3.pdf",
-    "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "999_res/Physiology/8 呼吸器系.pdf",
+    "999_res/Physiology/10 呼吸器系3.pdf",
+    "999_res/Physiology/9 呼吸器系2.pdf",
+    "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
