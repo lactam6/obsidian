@@ -24,16 +24,67 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-                "page": 43,
-                "left": 0,
-                "top": 69,
-                "zoom": 0.98
+                "page": 44,
+                "left": 61,
+                "top": 609,
+                "zoom": 0.86
               },
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
             }
+          },
+          {
+            "id": "9177beae5007e366",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/5 循環器(心臓2).pdf",
+                "page": 21,
+                "left": -59,
+                "top": 317,
+                "zoom": 0.47
+              },
+              "icon": "lucide-file-text",
+              "title": "5 循環器(心臓2)"
+            }
+          },
+          {
+            "id": "63e58970dcf8d853",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/4 循環器(心臓1).pdf",
+                "page": 11,
+                "left": 21,
+                "top": 247,
+                "zoom": 0.63
+              },
+              "icon": "lucide-file-text",
+              "title": "4 循環器(心臓1)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -417,19 +468,19 @@
   "active": "7bea371af8aff793",
   "lastOpenFiles": [
     "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
-    "02_Info_Notes/21_Physiology/器官_04_心臓.md",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "999_res/Physiology/5 循環器(心臓2).pdf",
+    "999_res/Physiology/4 循環器(心臓1).pdf",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "02_Info_Notes/21_Physiology/器官_04_心臓.md",
+    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "999_res/Physiology/#6_問題.pdf",
     "999_res/Physiology/#1_問題.pdf",
-    "999_res/Physiology/4 循環器(心臓1).pdf",
-    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "999_res/Physiology/8 呼吸器系.pdf",
     "999_res/Physiology/10 呼吸器系3.pdf",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "999_res/Physiology/9 呼吸器系2.pdf",
-    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "999_res/Physiology/3 筋肉.pdf",
