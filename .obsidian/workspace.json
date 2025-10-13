@@ -11,8 +11,14 @@
             "id": "5e0a9bd29e7f5c90",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "無題のファイル",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/無題のファイル.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"無題のファイル\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -20,7 +26,7 @@
                 {
                   "title": "器官生理_分析",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":174,\"ch\":53},\"to\":{\"line\":174,\"ch\":53}},\"scroll\":164.67992131897785}"
                 },
                 {
@@ -40,7 +46,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
+                "file": "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
                 "viewState": {
                   "x": 462.5,
                   "y": 255,
@@ -49,6 +55,52 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "器官生理=消化器=壁細胞"
+            }
+          },
+          {
+            "id": "89caba7045bcb452",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Info_Notes/21_Physiology/器官生理_分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "器官生理_分析"
+            }
+          },
+          {
+            "id": "6a85dc2ceaf05ea6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Info_Notes/21_Physiology/器官生理=消化器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "器官生理=消化器"
             }
           },
           {
@@ -70,7 +122,7 @@
                 {
                   "title": "神経生理_イオンチャネルと興奮性膜",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理_イオンチャネルと興奮性膜\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理_イオンチャネルと興奮性膜\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
@@ -82,19 +134,19 @@
                 {
                   "title": "器官生理_分析",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "器官生理=消化器",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/器官生理=消化器.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理=消化器\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理=消化器.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理=消化器\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":16.833334284599395}"
                 },
                 {
                   "title": "器官生理_分析",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理_分析.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官生理_分析\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":5},\"to\":{\"line\":16,\"ch\":5}},\"scroll\":0}"
                 },
                 {
@@ -106,7 +158,7 @@
                 {
                   "title": "器官生理=消化器=壁細胞",
                   "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"02_Info_Notes/器官生理=消化器=壁細胞.canvas\",\"viewState\":{\"x\":462.5,\"y\":255,\"zoom\":-1.0880975974566147}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官生理=消化器=壁細胞\"}",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas\",\"viewState\":{\"x\":462.5,\"y\":255,\"zoom\":-1.0880975974566147}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官生理=消化器=壁細胞\"}",
                   "eState": "{}"
                 }
               ]
@@ -122,7 +174,8 @@
               "title": "神経生理_イオンチャネルと興奮性膜"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -395,16 +448,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5e0a9bd29e7f5c90",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
-    "02_Info_Notes/器官生理=消化器=壁細胞.canvas",
+    "03_Complete_Notes/22_Neural_Physiology",
+    "01_General_Notes/22_Neural_Physiology",
+    "02_Info_Notes/22_Neural_Physiology",
+    "02_Info_Notes/21_Physiology/器官生理_分析.md",
+    "02_Info_Notes/21_Physiology/器官生理=消化器.md",
+    "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/無題のファイル.md",
+    "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Physiology/閾ｪ蠕狗･樒ｵ後・豸亥喧邂｡蛻ｶ蠕｡.canvas",
-    "02_Info_Notes/器官生理_分析.md",
     "02_Info_Notes/無題のファイル 1.md",
-    "02_Info_Notes/器官生理=消化器.md",
-    "02_Info_Notes/physiology",
+    "02_Info_Notes/21_Physiology",
     "無題のフォルダ",
     "無題のフォルダ 1",
     "01_General_Notes/21_Physiology/器官生理=消化器.md",
@@ -421,14 +477,12 @@
     "999_res/Neural Physiology/#3_活動電位1.pdf",
     "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "01_General_Notes/神経生理_イオンチャネルと興奮性膜.md",
-    "02_Info_Notes/神経生理_分析.md",
+    "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
     "999_res/Pasted image 20251012232629.png",
-    "03_Complete_Notes/Physiology/細胞生理.md",
+    "03_Complete_Notes/21_Physiology/細胞生理.md",
     "999_res/Neural Physiology/#9_小テスト.md",
     "999_res/Neural Physiology/#8_小テスト.md",
     "999_res/Neural Physiology/#3_小テスト.md",
