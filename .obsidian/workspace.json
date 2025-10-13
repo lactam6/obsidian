@@ -8,34 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64ec8525b59f5d36",
+            "id": "1a7fe2d777b6f50c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "無題のファイル",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"無題のファイル.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"無題のファイル\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "神経生理中間シケタイ_修正提案用 - Google ドキュメント",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=%E3%81%8A%E7%96%B2%E3%82%8C%E6%A7%98%E3%81%A7%E3%81%99%E3%80%82%E7%A5%9E%E7%B5%8C%E7%94%9F%E7%90%86%E4%B8%AD%E9%96%93%E3%81%AE%E3%82%B7%E3%82%B1%E3%82%BF%E3%82%A4%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%E7%AD%94%E3%81%88%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%AE%87%E6%89%80%E3%82%82%E5%A4%9A%E3%81%84%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%86+https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY%2Fedit%3Fusp%3Dsharing&ia=web\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "お疲れ様です。神経生理中間のシケタイテキストを作りました。よかったら使ってください!答え間違っている箇所も多いかと思う https://docs.google.com/document/d/1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY/edit?usp=sharing at DuckDuckGo",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=%E3%81%8A%E7%96%B2%E3%82%8C%E6%A7%98%E3%81%A7%E3%81%99%E3%80%82%E7%A5%9E%E7%B5%8C%E7%94%9F%E7%90%86%E4%B8%AD%E9%96%93%E3%81%AE%E3%82%B7%E3%82%B1%E3%82%BF%E3%82%A4%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%89%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%E7%AD%94%E3%81%88%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%AE%87%E6%89%80%E3%82%82%E5%A4%9A%E3%81%84%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%86%20https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY%2Fedit%3Fusp%3Dsharing\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
                 }
               ]
             },
             "state": {
-              "type": "pdf",
+              "type": "webviewer",
               "state": {
-                "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-                "page": 12,
-                "left": 28,
-                "top": 565,
-                "zoom": 1.41
+                "url": "https://docs.google.com/document/d/1lsjP-T_iGxMPYrMGCN6ufVhvd7oTkZusREKXl110ixY/edit?tab=t.0",
+                "title": "神経生理中間シケタイ_修正提案用 - Google ドキュメント",
+                "mode": "webview"
               },
-              "icon": "lucide-file-text",
-              "title": "神経生理学中間 シケタイテキスト 1003"
+              "icon": "globe-2",
+              "title": "神経生理中間シケタイ_修正提案用 - Google ドキュメント"
             }
           }
         ]
@@ -112,9 +116,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
-                "page": 5,
+                "page": 10,
                 "left": -120,
-                "top": 343,
+                "top": 61,
                 "zoom": 0.38
               },
               "icon": "lucide-file-text",
@@ -427,13 +431,13 @@
   },
   "active": "f42715956df9ddc6",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜3.pdf",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/#3_活動電位1.pdf",
     "999_res/Neural Physiology/#3_活動電位2.pdf",
     "999_res/Neural Physiology/#3_活動電位3.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜2.pdf",
-    "02_Info_Notes/神経生理_イオンチャネルと興奮性膜.md",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜1.pdf",
@@ -445,7 +449,6 @@
     "03_Complete_Notes/Physiology/細胞生理.md",
     "999_res/Physiology/11 消化器1.pdf",
     "999_res/Neural Physiology/#1_序論.pdf",
-    "999_res/Neural Physiology/#9_脊髄と運動制御3.pdf",
     "999_res/Neural Physiology/#9_小テスト.md",
     "999_res/Neural Physiology/#8_小テスト.md",
     "999_res/Neural Physiology/#3_小テスト.md",
