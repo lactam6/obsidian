@@ -26,7 +26,7 @@
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
                 "page": 43,
                 "left": 60,
-                "top": 137,
+                "top": 712,
                 "zoom": 0.98
               },
               "icon": "lucide-file-text",
@@ -415,11 +415,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "7bea371af8aff793",
+  "active": "d2537365cbb4e202",
   "lastOpenFiles": [
+    "02_Info_Notes/21_Physiology/器官_04_心臓.md",
+    "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
     "999_res/Physiology/#6_問題.pdf",
     "999_res/Physiology/#1_問題.pdf",
-    "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
     "999_res/Physiology/5 循環器(心臓2).pdf",
     "999_res/Physiology/4 循環器(心臓1).pdf",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
@@ -439,7 +440,6 @@
     "999_res/Physiology/1 体液・細胞膜.pdf",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
-    "02_Info_Notes/21_Physiology/器官_04_心臓.md",
     "03_Complete_Notes/21_Physiology/器官_05_血管_交感神経の作用.canvas",
     "03_Complete_Notes/21_Physiology/器官_05_血管.md",
     "01_General_Notes/21_Physiology/器官生理=消化器.md",
@@ -461,7 +461,6 @@
     "03_Complete_Notes/21_Physiology/筋肉.md",
     "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas",
-    "03_Complete_Notes/22_Neural_Physiology",
     "02_Info_Notes/無題のファイル.md",
     "999_res/Pasted image 20251012232629.png",
     "999_res/Pasted image 20251012000632.png"
