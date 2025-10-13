@@ -24,8 +24,8 @@
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
                 "page": 5,
-                "left": 47,
-                "top": 715,
+                "left": 133,
+                "top": 548,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -48,17 +48,16 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/1 体液・細胞膜.pdf",
-                "page": 48,
-                "left": -34,
-                "top": 331,
-                "zoom": 0.46354166666666663
+                "page": 55,
+                "left": 0,
+                "top": 471,
+                "zoom": 0.63
               },
               "icon": "lucide-file-text",
               "title": "1 体液・細胞膜"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -86,6 +85,29 @@
               "icon": "lucide-file",
               "title": "器官_01_細胞"
             }
+          },
+          {
+            "id": "de0da4ad0e39ee1d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Complete_Notes/21_Physiology/器官_00_分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "器官_00_分析"
+            }
           }
         ]
       },
@@ -102,7 +124,7 @@
                 {
                   "title": "器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達",
                   "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas\",\"viewState\":{\"x\":396.9131018575104,\"y\":352.3126950634418,\"zoom\":-0.8423478186925255}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達\"}",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas\",\"viewState\":{\"x\":135,\"y\":348,\"zoom\":-1.1888301042582294}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達\"}",
                   "eState": "{}"
                 },
                 {
@@ -473,12 +495,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 521.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -501,11 +522,12 @@
   },
   "active": "1615a2f0807fa159",
   "lastOpenFiles": [
-    "999_res/Physiology/1 体液・細胞膜.pdf",
+    "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-    "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
+    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
+    "999_res/Physiology/1 体液・細胞膜.pdf",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
@@ -514,7 +536,6 @@
     "01_General_Notes/21_Physiology/器官生理=消化器.md",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
-    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "Excel 2025-10-13 14.28.57.sheet.md",
     "Excel 2025-10-13 14.28.46.sheet.md",
     "Excel 2025-10-13 14.27.36.sheet.md",
