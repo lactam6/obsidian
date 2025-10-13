@@ -4,11 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "49ba9ed2e6ff65b5",
+        "id": "bcce1ba481f92e07",
         "type": "tabs",
         "children": [
           {
-            "id": "70007856dc272601",
+            "id": "58ea2b43c49f98d1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+                "page": 5,
+                "left": 47,
+                "top": 715,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "器官生理学中間 シケタイテキスト 0920"
+            }
+          },
+          {
+            "id": "a7141d31fd948dda",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,13 +48,43 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/1 体液・細胞膜.pdf",
-                "page": 27,
-                "left": 1,
-                "top": 166,
-                "zoom": 0.62
+                "page": 48,
+                "left": -34,
+                "top": 331,
+                "zoom": 0.46354166666666663
               },
               "icon": "lucide-file-text",
               "title": "1 体液・細胞膜"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "49ba9ed2e6ff65b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13de5c3307d7a83a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Info_Notes/21_Physiology/器官_01_細胞.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "器官_01_細胞"
             }
           }
         ]
@@ -253,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -445,10 +501,11 @@
   },
   "active": "1615a2f0807fa159",
   "lastOpenFiles": [
-    "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
-    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "999_res/Physiology/1 体液・細胞膜.pdf",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
+    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
+    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
@@ -477,7 +534,6 @@
     "02_Info_Notes/21_Physiology/器官_分析.md",
     "03_Complete_Notes/21_Physiology/細胞生理.md",
     "03_Complete_Notes/21_Physiology/筋肉.md",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas",
     "03_Complete_Notes/22_Neural_Physiology",
