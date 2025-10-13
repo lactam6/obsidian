@@ -26,7 +26,7 @@
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
                 "page": 17,
                 "left": 31,
-                "top": 778,
+                "top": 669,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
@@ -49,17 +49,16 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/3 筋肉.pdf",
-                "page": 32,
-                "left": 226,
-                "top": 548,
-                "zoom": 0.76
+                "page": 33,
+                "left": 181,
+                "top": 272,
+                "zoom": 0.6
               },
               "icon": "lucide-file-text",
               "title": "3 筋肉"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -118,8 +117,7 @@
               "title": "器官_00_分析"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "24e6c8910fde27b4",
@@ -447,13 +445,13 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "826e339c10a915a8",
+  "active": "58ea2b43c49f98d1",
   "lastOpenFiles": [
-    "999_res/Physiology/3 筋肉.pdf",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
+    "999_res/Physiology/3 筋肉.pdf",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
-    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
