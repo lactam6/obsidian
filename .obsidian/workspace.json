@@ -23,10 +23,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-                "page": 5,
-                "left": 133,
-                "top": 548,
-                "zoom": 1.1
+                "page": 8,
+                "left": 0,
+                "top": 828,
+                "zoom": 0.63
               },
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
@@ -124,7 +124,7 @@
                 {
                   "title": "器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達",
                   "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas\",\"viewState\":{\"x\":-46.61404868391393,\"y\":332.90443330684064,\"zoom\":-1.2837917719947287}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達\"}",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas\",\"viewState\":{\"x\":68.76526307356704,\"y\":400.77246343230354,\"zoom\":-1.2468712364909416}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達\"}",
                   "eState": "{}"
                 },
                 {
@@ -269,8 +269,7 @@
               "title": "器官_00_用語解説と普遍的機序"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,7 +353,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -522,7 +522,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -543,12 +544,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "3e90a9aa3df156ce",
+  "active": "1615a2f0807fa159",
   "lastOpenFiles": [
-    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
-    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
+    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
+    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "999_res/Physiology/1 体液・細胞膜.pdf",
@@ -585,7 +586,6 @@
     "01_General_Notes/22_Neural_Physiology",
     "02_Info_Notes/22_Neural_Physiology",
     "02_Info_Notes/無題のファイル.md",
-    "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/21_Physiology",
     "無題のフォルダ",
     "無題のフォルダ 1",
