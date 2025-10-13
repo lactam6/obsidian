@@ -6,6 +6,7 @@
       {
         "id": "bcce1ba481f92e07",
         "type": "tabs",
+        "dimension": 32.9088471849866,
         "children": [
           {
             "id": "58ea2b43c49f98d1",
@@ -48,10 +49,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/3 筋肉.pdf",
-                "page": 29,
-                "left": 302,
-                "top": 269,
-                "zoom": 0.71
+                "page": 9,
+                "left": 0,
+                "top": 72,
+                "zoom": 0.62
               },
               "icon": "lucide-file-text",
               "title": "3 筋肉"
@@ -63,6 +64,7 @@
       {
         "id": "49ba9ed2e6ff65b5",
         "type": "tabs",
+        "dimension": 28.55227882037534,
         "children": [
           {
             "id": "13de5c3307d7a83a",
@@ -122,6 +124,7 @@
       {
         "id": "24e6c8910fde27b4",
         "type": "tabs",
+        "dimension": 38.53887399463807,
         "children": [
           {
             "id": "826e339c10a915a8",
@@ -418,7 +421,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -438,8 +441,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
-      "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
+      "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "excel:Create Excel File": false
     }
