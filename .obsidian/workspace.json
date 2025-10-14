@@ -25,7 +25,7 @@
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
                 "page": 16,
                 "left": 0,
-                "top": 740,
+                "top": 720,
                 "zoom": 1.59
               },
               "icon": "lucide-file-text",
@@ -439,11 +439,11 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ed82138ad941bd36",
+  "active": "53f9c7430d3595c0",
   "lastOpenFiles": [
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/#3_活動電位.pdf",
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
