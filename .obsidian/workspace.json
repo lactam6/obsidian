@@ -24,10 +24,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-                "page": 62,
-                "left": 0,
-                "top": 42,
-                "zoom": 0.87
+                "page": 63,
+                "left": 31,
+                "top": 794,
+                "zoom": 0.8
               },
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
@@ -74,10 +74,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/7 循環器(血管2).pdf",
-                "page": 40,
-                "left": 131,
-                "top": 466,
-                "zoom": 1.02
+                "page": 42,
+                "left": 214,
+                "top": 451,
+                "zoom": 0.85
               },
               "icon": "lucide-file-text",
               "title": "7 循環器(血管2)"
@@ -472,16 +472,16 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "402f3db9322be777",
+  "active": "0671896ed9cd22e1",
   "lastOpenFiles": [
-    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
-    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "03_Complete_Notes/21_Physiology/器官_05_血管.md",
-    "02_Info_Notes/21_Physiology/器官_05_血管.md",
-    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
+    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "999_res/Physiology/7 循環器(血管2).pdf",
     "999_res/Physiology/6 循環器(血管1).pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "02_Info_Notes/21_Physiology/器官_05_血管.md",
+    "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
+    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
