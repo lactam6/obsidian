@@ -23,23 +23,17 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-                "page": 8,
-                "left": -23,
-                "top": 167,
-                "zoom": 0.7287051953282322
+                "page": 14,
+                "left": 0,
+                "top": 735,
+                "zoom": 1.35
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003"
             }
-          }
-        ]
-      },
-      {
-        "id": "24e6c8910fde27b4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c2862fc9aab0ba43",
+            "id": "94e958e84840d99d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,6 +41,67 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
+                "page": 11,
+                "left": -22,
+                "top": 264,
+                "zoom": 0.7229166666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "#2_イオンチャネルと興奮性膜"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "24e6c8910fde27b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f9c7430d3595c0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神経生理_イオンチャネルと興奮性膜"
+            }
+          },
+          {
+            "id": "f894792e2d5e5768",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "神経生理_イオンチャネルと興奮性膜",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理_イオンチャネルと興奮性膜\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":2},\"to\":{\"line\":28,\"ch\":2}},\"scroll\":14.878175919568815}"
                 }
               ]
             },
@@ -145,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -335,9 +391,18 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "ed82138ad941bd36",
+  "active": "94e958e84840d99d",
   "lastOpenFiles": [
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
+    "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
+    "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
+    "999_res/Neural Physiology/#4_興奮伝導.pdf",
+    "999_res/Neural Physiology/#3_活動電位.pdf",
+    "999_res/Neural Physiology/#6_神経伝達物質.pdf",
+    "999_res/Neural Physiology/#14_自律神経系.pdf",
+    "999_res/Neural Physiology/#13_感覚系総論.pdf",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
@@ -349,17 +414,9 @@
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "999_res/Physiology/11 消化器1.pdf",
     "999_res/Physiology/13 消化器3.pdf",
-    "999_res/Physiology/12 消化器2.pdf",
-    "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-    "999_res/Physiology/6 循環器(血管1).pdf",
-    "999_res/Physiology/7 循環器(血管2).pdf",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
-    "999_res/Physiology/3 筋肉.pdf",
-    "999_res/Physiology/5 循環器(心臓2).pdf",
-    "999_res/Physiology/4 循環器(心臓1).pdf",
-    "999_res/Physiology/#6_問題.pdf",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
@@ -379,10 +436,8 @@
     "03_Complete_Notes/21_Physiology/器官_心臓.md",
     "02_Info_Notes/21_Physiology/器官_分析.md",
     "03_Complete_Notes/21_Physiology/細胞生理.md",
-    "03_Complete_Notes/21_Physiology/筋肉.md",
     "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas",
-    "02_Info_Notes/無題のファイル.md",
     "999_res/Pasted image 20251012232629.png",
     "999_res/Pasted image 20251012000632.png"
   ]
