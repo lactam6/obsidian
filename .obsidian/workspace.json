@@ -49,9 +49,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/12 消化器2.pdf",
-                "page": 11,
+                "page": 26,
                 "left": -31,
-                "top": 240,
+                "top": 46,
                 "zoom": 0.5020833333333333
               },
               "icon": "lucide-file-text",
@@ -74,16 +74,17 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/13 消化器3.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -31,
-                "top": 540,
+                "top": 189,
                 "zoom": 0.5020833333333333
               },
               "icon": "lucide-file-text",
               "title": "13 消化器3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -471,12 +472,12 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "df5786d248a949df",
+  "active": "354027bd065f7c16",
   "lastOpenFiles": [
-    "02_Info_Notes/21_Physiology/器官_06_消化.md",
-    "03_Complete_Notes/21_Physiology/器官_06_消化.md",
-    "999_res/Physiology/11 消化器1.pdf",
     "999_res/Physiology/12 消化器2.pdf",
+    "03_Complete_Notes/21_Physiology/器官_06_消化.md",
+    "02_Info_Notes/21_Physiology/器官_06_消化.md",
+    "999_res/Physiology/11 消化器1.pdf",
     "999_res/Physiology/13 消化器3.pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Physiology/6 循環器(血管1).pdf",
