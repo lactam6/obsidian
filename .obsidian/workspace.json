@@ -73,10 +73,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#3_活動電位.pdf",
-                "page": 22,
-                "left": -27,
-                "top": 211,
-                "zoom": 0.603125
+                "page": 66,
+                "left": 0,
+                "top": 281,
+                "zoom": 0.68
               },
               "icon": "lucide-file-text",
               "title": "#3_活動電位"
@@ -107,8 +107,7 @@
               "title": "#4_興奮伝導"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "24e6c8910fde27b4",
@@ -440,10 +439,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "53f9c7430d3595c0",
+  "active": "ed82138ad941bd36",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#3_活動電位.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
