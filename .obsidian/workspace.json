@@ -4,40 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24e6c8910fde27b4",
+        "id": "f8fe3614f863ab98",
         "type": "tabs",
         "children": [
           {
-            "id": "3e90a9aa3df156ce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "器官_02_筋肉",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_02_筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_02_筋肉\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":56.68671113127595}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "器官_00_用語解説と普遍的機序"
-            }
-          },
-          {
-            "id": "df5786d248a949df",
+            "id": "ed82138ad941bd36",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,58 +16,52 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+                "page": 8,
+                "left": -23,
+                "top": 167,
+                "zoom": 0.7287051953282322
+              },
+              "icon": "lucide-file-text",
+              "title": "神経生理学中間 シケタイテキスト 1003"
+            }
+          }
+        ]
+      },
+      {
+        "id": "24e6c8910fde27b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2862fc9aab0ba43",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "器官_02_筋肉",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_02_筋肉.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_02_筋肉\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.155303480485042}"
-                },
-                {
-                  "title": "器官_03_呼吸",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_03_呼吸.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_03_呼吸\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":8},\"to\":{\"line\":82,\"ch\":8}},\"scroll\":59.6573423372282}"
-                },
-                {
-                  "title": "器官_04_心臓",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_04_心臓.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_04_心臓\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "器官_05_血管",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_05_血管.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_05_血管\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":19},\"to\":{\"line\":21,\"ch\":19}},\"scroll\":0}"
-                },
-                {
-                  "title": "器官_05_血管",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/21_Physiology/器官_05_血管.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_05_血管\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "器官_06_消化",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Complete_Notes/21_Physiology/器官_06_消化.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"器官_06_消化\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":9},\"to\":{\"line\":62,\"ch\":9}},\"scroll\":42.91287744280609}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
+                "file": "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官_01_細胞"
+              "title": "神経生理_分析"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -370,8 +335,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "df5786d248a949df",
+  "active": "ed82138ad941bd36",
   "lastOpenFiles": [
+    "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
+    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
@@ -394,7 +361,6 @@
     "999_res/Physiology/4 循環器(心臓1).pdf",
     "999_res/Physiology/#6_問題.pdf",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
-    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_05_血管_交感神経の作用.canvas",
