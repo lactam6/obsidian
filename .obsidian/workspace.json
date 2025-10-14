@@ -24,8 +24,8 @@
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
                 "page": 16,
-                "left": 24,
-                "top": 576,
+                "left": 281,
+                "top": 512,
                 "zoom": 1.61
               },
               "icon": "lucide-file-text",
@@ -73,9 +73,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#3_活動電位.pdf",
-                "page": 17,
-                "left": 10,
-                "top": 41,
+                "page": 22,
+                "left": 0,
+                "top": 250,
                 "zoom": 0.68
               },
               "icon": "lucide-file-text",
@@ -107,8 +107,7 @@
               "title": "#4_興奮伝導"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "24e6c8910fde27b4",
@@ -440,13 +439,13 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "dc3749b5477c1aec",
+  "active": "53f9c7430d3595c0",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#4_興奮伝導.pdf",
-    "999_res/Neural Physiology/#3_活動電位.pdf",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
-    "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
+    "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
+    "999_res/Neural Physiology/#3_活動電位.pdf",
+    "999_res/Neural Physiology/#4_興奮伝導.pdf",
+    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
     "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
