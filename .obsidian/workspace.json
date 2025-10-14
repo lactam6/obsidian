@@ -4,145 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "bcce1ba481f92e07",
-        "type": "tabs",
-        "dimension": 42.292225201072384,
-        "children": [
-          {
-            "id": "54f1725259dc9bff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/11 消化器1.pdf",
-                "page": 48,
-                "left": -31,
-                "top": 44,
-                "zoom": 0.5
-              },
-              "icon": "lucide-file-text",
-              "title": "11 消化器1"
-            }
-          },
-          {
-            "id": "a17020486e063cb0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/12 消化器2.pdf",
-                "page": 26,
-                "left": -31,
-                "top": 46,
-                "zoom": 0.5020833333333333
-              },
-              "icon": "lucide-file-text",
-              "title": "12 消化器2"
-            }
-          },
-          {
-            "id": "354027bd065f7c16",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/13 消化器3.pdf",
-                "page": 20,
-                "left": -25,
-                "top": 194,
-                "zoom": 0.51
-              },
-              "icon": "lucide-file-text",
-              "title": "13 消化器3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "49ba9ed2e6ff65b5",
-        "type": "tabs",
-        "dimension": 27.61394101876676,
-        "children": [
-          {
-            "id": "de0da4ad0e39ee1d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Complete_Notes/21_Physiology/器官_00_分析.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "器官_00_分析"
-            }
-          },
-          {
-            "id": "c223d47ececa78a9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/21_Physiology/器官_06_消化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "器官_06_消化"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "24e6c8910fde27b4",
         "type": "tabs",
-        "dimension": 30.093833780160857,
         "children": [
           {
             "id": "3e90a9aa3df156ce",
@@ -471,8 +334,9 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "c223d47ececa78a9",
+  "active": "df5786d248a949df",
   "lastOpenFiles": [
+    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "03_Complete_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "999_res/Physiology/11 消化器1.pdf",
@@ -482,7 +346,6 @@
     "999_res/Physiology/6 循環器(血管1).pdf",
     "999_res/Physiology/7 循環器(血管2).pdf",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
-    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
     "03_Complete_Notes/21_Physiology/器官_05_血管.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
