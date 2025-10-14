@@ -24,17 +24,17 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
-                "page": 63,
-                "left": 31,
-                "top": 794,
-                "zoom": 0.8
+                "page": 75,
+                "left": 55,
+                "top": 827,
+                "zoom": 1.36
               },
               "icon": "lucide-file-text",
               "title": "器官生理学中間 シケタイテキスト 0920"
             }
           },
           {
-            "id": "55be96cac28348bb",
+            "id": "54f1725259dc9bff",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -48,43 +48,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Physiology/6 循環器(血管1).pdf",
-                "page": 33,
+                "file": "999_res/Physiology/11 消化器1.pdf",
+                "page": 18,
                 "left": -31,
-                "top": 496,
+                "top": 252,
                 "zoom": 0.5020833333333333
               },
               "icon": "lucide-file-text",
-              "title": "6 循環器(血管1)"
-            }
-          },
-          {
-            "id": "c839054044dd8a14",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Physiology/7 循環器(血管2).pdf",
-                "page": 42,
-                "left": 214,
-                "top": 451,
-                "zoom": 0.85
-              },
-              "icon": "lucide-file-text",
-              "title": "7 循環器(血管2)"
+              "title": "11 消化器1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -115,7 +90,7 @@
             }
           },
           {
-            "id": "0671896ed9cd22e1",
+            "id": "c223d47ececa78a9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -129,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Info_Notes/21_Physiology/器官_05_血管.md",
+                "file": "02_Info_Notes/21_Physiology/器官_06_消化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官_05_血管"
+              "title": "器官_06_消化"
             }
           }
         ],
@@ -175,7 +150,7 @@
             }
           },
           {
-            "id": "402f3db9322be777",
+            "id": "df5786d248a949df",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -189,12 +164,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Complete_Notes/21_Physiology/器官_05_血管.md",
+                "file": "03_Complete_Notes/21_Physiology/器官_06_消化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官_05_血管"
+              "title": "器官_06_消化"
             }
           }
         ],
@@ -472,17 +447,20 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "0671896ed9cd22e1",
+  "active": "df5786d248a949df",
   "lastOpenFiles": [
-    "03_Complete_Notes/21_Physiology/器官_05_血管.md",
-    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
-    "999_res/Physiology/7 循環器(血管2).pdf",
-    "999_res/Physiology/6 循環器(血管1).pdf",
+    "02_Info_Notes/21_Physiology/器官_06_消化.md",
+    "03_Complete_Notes/21_Physiology/器官_06_消化.md",
+    "999_res/Physiology/11 消化器1.pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
+    "999_res/Physiology/6 循環器(血管1).pdf",
+    "999_res/Physiology/7 循環器(血管2).pdf",
+    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
+    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "02_Info_Notes/21_Physiology/器官_05_血管.md",
+    "03_Complete_Notes/21_Physiology/器官_05_血管.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
-    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "999_res/Physiology/3 筋肉.pdf",
@@ -492,12 +470,10 @@
     "999_res/Physiology/#6_問題.pdf",
     "999_res/Physiology/#1_問題.pdf",
     "999_res/Physiology/8 呼吸器系.pdf",
-    "999_res/Physiology/10 呼吸器系3.pdf",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "02_Info_Notes/21_Physiology/器官_01_細胞.md",
-    "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "03_Complete_Notes/21_Physiology/器官_05_血管_交感神経の作用.canvas",
     "01_General_Notes/21_Physiology/器官生理=消化器.md",
     "Excel 2025-10-13 14.28.57.sheet.md",
@@ -511,7 +487,6 @@
     "03_Complete_Notes/21_Physiology/器官_06_消化_自律神経の消化管支配.canvas",
     "03_Complete_Notes/21_Physiology/器官_06_消化_ペプチドホルモン.canvas",
     "03_Complete_Notes/21_Physiology/器官_06_消化_タンパク質の消化と吸収.canvas",
-    "03_Complete_Notes/21_Physiology/器官_06_消化.md",
     "03_Complete_Notes/21_Physiology/器官_心臓.md",
     "02_Info_Notes/21_Physiology/器官_分析.md",
     "03_Complete_Notes/21_Physiology/細胞生理.md",
