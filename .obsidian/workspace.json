@@ -74,17 +74,16 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/13 消化器3.pdf",
-                "page": 2,
-                "left": -31,
-                "top": 189,
-                "zoom": 0.5020833333333333
+                "page": 20,
+                "left": -25,
+                "top": 194,
+                "zoom": 0.51
               },
               "icon": "lucide-file-text",
               "title": "13 消化器3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -472,13 +471,13 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "354027bd065f7c16",
+  "active": "c223d47ececa78a9",
   "lastOpenFiles": [
-    "999_res/Physiology/12 消化器2.pdf",
     "03_Complete_Notes/21_Physiology/器官_06_消化.md",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "999_res/Physiology/11 消化器1.pdf",
     "999_res/Physiology/13 消化器3.pdf",
+    "999_res/Physiology/12 消化器2.pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Physiology/6 循環器(血管1).pdf",
     "999_res/Physiology/7 循環器(血管2).pdf",
