@@ -24,10 +24,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Physiology/11 消化器1.pdf",
-                "page": 22,
-                "left": -87,
-                "top": 344,
-                "zoom": 0.44
+                "page": 48,
+                "left": -31,
+                "top": 44,
+                "zoom": 0.5
               },
               "icon": "lucide-file-text",
               "title": "11 消化器1"
@@ -51,7 +51,7 @@
                 "file": "999_res/Physiology/12 消化器2.pdf",
                 "page": 11,
                 "left": -31,
-                "top": 477,
+                "top": 240,
                 "zoom": 0.5020833333333333
               },
               "icon": "lucide-file-text",
@@ -83,8 +83,7 @@
               "title": "13 消化器3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "49ba9ed2e6ff65b5",
@@ -472,13 +471,13 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "a17020486e063cb0",
+  "active": "df5786d248a949df",
   "lastOpenFiles": [
-    "999_res/Physiology/13 消化器3.pdf",
-    "999_res/Physiology/12 消化器2.pdf",
+    "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "03_Complete_Notes/21_Physiology/器官_06_消化.md",
     "999_res/Physiology/11 消化器1.pdf",
-    "02_Info_Notes/21_Physiology/器官_06_消化.md",
+    "999_res/Physiology/12 消化器2.pdf",
+    "999_res/Physiology/13 消化器3.pdf",
     "999_res/Physiology/器官生理学中間 シケタイテキスト 0920.pdf",
     "999_res/Physiology/6 循環器(血管1).pdf",
     "999_res/Physiology/7 循環器(血管2).pdf",
@@ -495,7 +494,6 @@
     "999_res/Physiology/5 循環器(心臓2).pdf",
     "999_res/Physiology/4 循環器(心臓1).pdf",
     "999_res/Physiology/#6_問題.pdf",
-    "999_res/Physiology/#1_問題.pdf",
     "02_Info_Notes/21_Physiology/器官_03_呼吸.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
