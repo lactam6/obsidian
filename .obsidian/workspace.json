@@ -12,8 +12,14 @@
             "id": "da554a31867500c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "#11_大脳皮質運動野",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"999_res/Neural Physiology/#11_大脳皮質運動野.pdf\",\"page\":22,\"left\":-29,\"top\":509,\"zoom\":0.5697916666666667},\"icon\":\"lucide-file-text\",\"title\":\"#11_大脳皮質運動野\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -24,44 +30,13 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 63,
-                "left": 45,
-                "top": 801,
-                "zoom": 1.83
+                "page": 64,
+                "left": 110,
+                "top": 82,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
-            }
-          },
-          {
-            "id": "97cfa131fe077674",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "#9_脊髄と運動制御",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"999_res/Neural Physiology/#9_脊髄と運動制御.pdf\",\"page\":8,\"left\":-35,\"top\":498,\"zoom\":0.56},\"icon\":\"lucide-file-text\",\"title\":\"#9_脊髄と運動制御\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#10_脳幹と運動制御.pdf",
-                "page": 4,
-                "left": -29,
-                "top": 209,
-                "zoom": 0.5697916666666667
-              },
-              "icon": "lucide-file-text",
-              "title": "#10_脳幹と運動制御"
             }
           }
         ]
@@ -443,9 +418,10 @@
   "active": "52e11608450ee869",
   "lastOpenFiles": [
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
+    "999_res/Neural Physiology/#11_大脳皮質運動野.pdf",
     "999_res/Neural Physiology/#10_脳幹と運動制御.pdf",
-    "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
@@ -454,7 +430,6 @@
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
-    "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
