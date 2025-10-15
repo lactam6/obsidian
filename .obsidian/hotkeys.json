@@ -112,5 +112,14 @@
       ],
       "key": "F"
     }
+  ],
+  "pomodoro-timer:toggle-timer": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
