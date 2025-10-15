@@ -24,10 +24,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 43,
-                "left": 24,
-                "top": 329,
-                "zoom": 1.49
+                "page": 46,
+                "left": 0,
+                "top": 371,
+                "zoom": 1.89
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
@@ -49,13 +49,38 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#6_神経伝達物質.pdf",
-                "page": 27,
+                "page": 35,
                 "left": -15,
-                "top": 423,
+                "top": 475,
                 "zoom": 0.7
               },
               "icon": "lucide-file-text",
               "title": "#6_神経伝達物質"
+            }
+          },
+          {
+            "id": "e7dc7c067953bd2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
+                "page": 5,
+                "left": -18,
+                "top": 140,
+                "zoom": 0.8268907563025211
+              },
+              "icon": "lucide-file-text",
+              "title": "#7_神経細胞内情報伝達"
             }
           }
         ]
@@ -439,9 +464,9 @@
   "lastOpenFiles": [
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Neural Physiology/#5_シナプス.pdf",
-    "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
