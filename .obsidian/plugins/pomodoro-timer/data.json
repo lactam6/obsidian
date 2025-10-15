@@ -4,7 +4,7 @@
   "autostart": true,
   "useStatusBarTimer": true,
   "notificationSound": true,
-  "customSound": "",
+  "customSound": "peep.mp3",
   "showTaskProgress": true,
   "enableTaskTracking": false,
   "logFile": "NONE",
