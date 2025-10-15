@@ -24,17 +24,17 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 48,
-                "left": 0,
-                "top": 645,
-                "zoom": 1.89
+                "page": 53,
+                "left": 6,
+                "top": 615,
+                "zoom": 1.79
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
             }
           },
           {
-            "id": "5e88d3b3c79ddd8e",
+            "id": "0489f2e61f73d3ac",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -48,39 +48,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Neural Physiology/#6_神経伝達物質.pdf",
-                "page": 23,
-                "left": -15,
-                "top": 178,
-                "zoom": 0.7
+                "file": "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
+                "page": 26,
+                "left": -22,
+                "top": 40,
+                "zoom": 0.6833333333333333
               },
               "icon": "lucide-file-text",
-              "title": "#6_神経伝達物質"
-            }
-          },
-          {
-            "id": "e7dc7c067953bd2a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
-                "page": 2,
-                "left": -18,
-                "top": 621,
-                "zoom": 0.8268907563025211
-              },
-              "icon": "lucide-file-text",
-              "title": "#7_神経細胞内情報伝達"
+              "title": "#8_ニューロンとグリア"
             }
           }
         ]
@@ -463,10 +438,11 @@
   "active": "52e11608450ee869",
   "lastOpenFiles": [
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-    "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
-    "999_res/Pasted image 20251016053520.png",
+    "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
+    "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
+    "999_res/Pasted image 20251016053520.png",
     "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
@@ -475,7 +451,6 @@
     "peep.mp3",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
-    "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
