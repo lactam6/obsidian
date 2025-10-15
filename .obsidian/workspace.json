@@ -24,10 +24,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 60,
-                "left": 0,
-                "top": 36,
-                "zoom": 1.67
+                "page": 61,
+                "left": 25,
+                "top": 485,
+                "zoom": 1.86
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
@@ -49,17 +49,16 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
-                "page": 47,
-                "left": -153,
-                "top": 110,
-                "zoom": 0.43
+                "page": 28,
+                "left": -35,
+                "top": 339,
+                "zoom": 0.56
               },
               "icon": "lucide-file-text",
               "title": "#9_脊髄と運動制御"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "24e6c8910fde27b4",
@@ -225,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -435,7 +435,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "97cfa131fe077674",
+  "active": "da554a31867500c9",
   "lastOpenFiles": [
     "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
