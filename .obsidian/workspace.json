@@ -25,8 +25,8 @@
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
                 "page": 53,
-                "left": 6,
-                "top": 615,
+                "left": 18,
+                "top": 16,
                 "zoom": 1.79
               },
               "icon": "lucide-file-text",
@@ -49,9 +49,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
-                "page": 26,
+                "page": 30,
                 "left": -22,
-                "top": 40,
+                "top": 535,
                 "zoom": 0.6833333333333333
               },
               "icon": "lucide-file-text",
@@ -438,8 +438,8 @@
   "active": "52e11608450ee869",
   "lastOpenFiles": [
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Pasted image 20251016053520.png",
