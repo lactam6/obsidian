@@ -25,9 +25,9 @@
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
                 "page": 43,
-                "left": 57,
-                "top": 682,
-                "zoom": 1.41
+                "left": 33,
+                "top": 338,
+                "zoom": 1.49
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
@@ -49,10 +49,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#6_神経伝達物質.pdf",
-                "page": 24,
-                "left": -8,
-                "top": 311,
-                "zoom": 0.71
+                "page": 26,
+                "left": -15,
+                "top": 510,
+                "zoom": 0.7
               },
               "icon": "lucide-file-text",
               "title": "#6_神経伝達物質"
@@ -438,9 +438,9 @@
   },
   "active": "5e88d3b3c79ddd8e",
   "lastOpenFiles": [
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
