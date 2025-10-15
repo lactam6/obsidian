@@ -73,9 +73,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#4_興奮伝導.pdf",
-                "page": 21,
-                "left": -98,
-                "top": 466,
+                "page": 34,
+                "left": -27,
+                "top": 43,
                 "zoom": 0.603125
               },
               "icon": "lucide-file-text",
@@ -104,9 +104,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-                "page": 24,
-                "left": 2,
-                "top": 22,
+                "page": 26,
+                "left": 0,
+                "top": 48,
                 "zoom": 1.44
               },
               "icon": "lucide-file-text",
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "24e6c8910fde27b4",
@@ -491,11 +491,11 @@
   },
   "active": "52e11608450ee869",
   "lastOpenFiles": [
-    "peep.mp3",
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-    "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "peep.mp3",
+    "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
@@ -513,7 +513,6 @@
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
     "999_res/Physiology/11 消化器1.pdf",
-    "999_res/Physiology/13 消化器3.pdf",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
