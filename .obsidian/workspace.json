@@ -104,10 +104,8 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-                "page": 18,
-                "left": 0,
-                "top": 374,
-                "zoom": 1.41
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003"
@@ -442,9 +440,28 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "43e4b3315e9fcf2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -467,7 +484,8 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "52e11608450ee869",
