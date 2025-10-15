@@ -25,9 +25,9 @@
               "state": {
                 "file": "999_res/Neural Physiology/#5_シナプス.pdf",
                 "page": 28,
-                "left": -31,
-                "top": 21,
-                "zoom": 0.5135416666666667
+                "left": 0,
+                "top": 287,
+                "zoom": 0.63
               },
               "icon": "lucide-file-text",
               "title": "#5_シナプス"
@@ -435,11 +435,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "52e11608450ee869",
+  "active": "6fb028d7b7c32f35",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#5_シナプス.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
+    "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
