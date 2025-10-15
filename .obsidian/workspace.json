@@ -6,58 +6,8 @@
       {
         "id": "f8fe3614f863ab98",
         "type": "tabs",
-        "dimension": 36.52815013404826,
+        "dimension": 47.45308310991957,
         "children": [
-          {
-            "id": "6fb028d7b7c32f35",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#5_シナプス.pdf",
-                "page": 45,
-                "left": 0,
-                "top": 47,
-                "zoom": 0.5
-              },
-              "icon": "lucide-file-text",
-              "title": "#5_シナプス"
-            }
-          },
-          {
-            "id": "513c2a32c0d96c57",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#6_神経伝達物質.pdf",
-                "page": 1,
-                "left": -31,
-                "top": 540,
-                "zoom": 0.5135416666666667
-              },
-              "icon": "lucide-file-text",
-              "title": "#6_神経伝達物質"
-            }
-          },
           {
             "id": "da554a31867500c9",
             "type": "leaf",
@@ -74,22 +24,46 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 37,
+                "page": 43,
                 "left": 0,
-                "top": 87,
-                "zoom": 1.3
+                "top": 804,
+                "zoom": 1.11
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
             }
+          },
+          {
+            "id": "5e88d3b3c79ddd8e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "999_res/Neural Physiology/#6_神経伝達物質.pdf",
+                "page": 21,
+                "left": -8,
+                "top": 19,
+                "zoom": 0.71
+              },
+              "icon": "lucide-file-text",
+              "title": "#6_神経伝達物質"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "24e6c8910fde27b4",
         "type": "tabs",
-        "dimension": 63.47184986595175,
+        "dimension": 52.54691689008043,
         "children": [
           {
             "id": "52e11608450ee869",
@@ -461,12 +435,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "513c2a32c0d96c57",
+  "active": "52e11608450ee869",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
