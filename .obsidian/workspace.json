@@ -23,10 +23,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#5_シナプス.pdf",
-                "page": 1,
-                "left": -27,
-                "top": 540,
-                "zoom": 0.603125
+                "page": 13,
+                "left": -22,
+                "top": 508,
+                "zoom": 0.7229166666666668
               },
               "icon": "lucide-file-text",
               "title": "#5_シナプス"
@@ -48,10 +48,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 25,
-                "left": -18,
-                "top": 419,
-                "zoom": 0.8734393878372937
+                "page": 35,
+                "left": 181,
+                "top": 13,
+                "zoom": 1.33
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
@@ -434,13 +434,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "52e11608450ee869",
+  "active": "da554a31867500c9",
   "lastOpenFiles": [
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "peep.mp3",
@@ -449,7 +449,6 @@
     "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Neural Physiology/#14_自律神経系.pdf",
-    "999_res/Neural Physiology/#13_感覚系総論.pdf",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
     "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
     "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
