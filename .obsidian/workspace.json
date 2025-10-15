@@ -24,17 +24,17 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 53,
-                "left": 18,
-                "top": 16,
-                "zoom": 1.79
+                "page": 60,
+                "left": 0,
+                "top": 36,
+                "zoom": 1.67
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003_compressed"
             }
           },
           {
-            "id": "0489f2e61f73d3ac",
+            "id": "97cfa131fe077674",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -48,17 +48,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
-                "page": 30,
-                "left": -22,
-                "top": 535,
-                "zoom": 0.6833333333333333
+                "file": "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
+                "page": 47,
+                "left": -153,
+                "top": 110,
+                "zoom": 0.43
               },
               "icon": "lucide-file-text",
-              "title": "#8_ニューロンとグリア"
+              "title": "#9_脊髄と運動制御"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "24e6c8910fde27b4",
@@ -224,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -435,11 +435,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "52e11608450ee869",
+  "active": "97cfa131fe077674",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-    "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
+    "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
+    "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Pasted image 20251016053520.png",
@@ -448,7 +449,6 @@
     "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
-    "peep.mp3",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
     "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
