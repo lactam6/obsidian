@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc3749b5477c1aec",
+            "id": "6fb028d7b7c32f35",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,53 +22,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Neural Physiology/#3_活動電位.pdf",
-                "page": 48,
-                "left": 0,
-                "top": 15,
-                "zoom": 0.68
-              },
-              "icon": "lucide-file-text",
-              "title": "#3_活動電位"
-            }
-          },
-          {
-            "id": "7f7579334f3cf7dd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#4_興奮伝導.pdf",
-                "page": 49,
+                "file": "999_res/Neural Physiology/#5_シナプス.pdf",
+                "page": 1,
                 "left": -27,
-                "top": 195,
+                "top": 540,
                 "zoom": 0.603125
               },
               "icon": "lucide-file-text",
-              "title": "#4_興奮伝導"
+              "title": "#5_シナプス"
             }
           },
           {
-            "id": "ed82138ad941bd36",
+            "id": "da554a31867500c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "無題のファイル",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/22_Neural_Physiology/問題得.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"無題のファイル\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -78,14 +47,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-                "page": 30,
-                "left": 0,
-                "top": 681,
-                "zoom": 1.44
+                "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
+                "page": 25,
+                "left": -18,
+                "top": 419,
+                "zoom": 0.8734393878372937
               },
               "icon": "lucide-file-text",
-              "title": "神経生理学中間 シケタイテキスト 1003"
+              "title": "神経生理学中間 シケタイテキスト 1003_compressed"
             }
           }
         ],
@@ -254,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -464,12 +434,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "7f7579334f3cf7dd",
+  "active": "52e11608450ee869",
   "lastOpenFiles": [
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
+    "999_res/Neural Physiology/#5_シナプス.pdf",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-    "999_res/Neural Physiology/#4_興奮伝導.pdf",
     "999_res/Neural Physiology/#3_活動電位.pdf",
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/#4_興奮伝導.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "peep.mp3",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
@@ -487,7 +459,6 @@
     "03_Complete_Notes/21_Physiology/器官_06_消化.md",
     "03_Complete_Notes/21_Physiology/器官_00_分析.md",
     "02_Info_Notes/21_Physiology/器官_06_消化.md",
-    "999_res/Physiology/11 消化器1.pdf",
     "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
     "02_Info_Notes/21_Physiology/器官_02_筋肉.md",
     "02_Info_Notes/21_Physiology/器官_04_心臓.md",
