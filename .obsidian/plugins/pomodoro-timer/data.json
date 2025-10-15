@@ -1,9 +1,9 @@
 {
   "workLen": 25,
   "breakLen": 5,
-  "autostart": false,
+  "autostart": true,
   "useStatusBarTimer": true,
-  "notificationSound": false,
+  "notificationSound": true,
   "customSound": "",
   "showTaskProgress": true,
   "enableTaskTracking": false,

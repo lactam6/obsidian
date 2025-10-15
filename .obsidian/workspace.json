@@ -24,7 +24,7 @@
               "state": {
                 "file": "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
                 "page": 55,
-                "left": -27,
+                "left": -98,
                 "top": 138,
                 "zoom": 0.603125
               },
@@ -48,9 +48,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#3_活動電位.pdf",
-                "page": 37,
-                "left": 27,
-                "top": 130,
+                "page": 57,
+                "left": -45,
+                "top": 341,
                 "zoom": 0.68
               },
               "icon": "lucide-file-text",
@@ -73,9 +73,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/#4_興奮伝導.pdf",
-                "page": 61,
-                "left": -27,
-                "top": 450,
+                "page": 21,
+                "left": -98,
+                "top": 466,
                 "zoom": 0.603125
               },
               "icon": "lucide-file-text",
@@ -104,8 +104,10 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 24,
+                "left": 85,
+                "top": 4,
+                "zoom": 1.44
               },
               "icon": "lucide-file-text",
               "title": "神経生理学中間 シケタイテキスト 1003"
@@ -442,7 +444,7 @@
             }
           },
           {
-            "id": "43e4b3315e9fcf2a",
+            "id": "6ae2ea5cf4ce437d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -488,12 +490,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "52e11608450ee869",
+  "active": "ed82138ad941bd36",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#3_活動電位.pdf",
     "999_res/Neural Physiology/#4_興奮伝導.pdf",
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
     "999_res/Neural Physiology/#2_イオンチャネルと興奮性膜.pdf",
     "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
     "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
