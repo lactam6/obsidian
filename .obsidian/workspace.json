@@ -30,9 +30,9 @@
               "type": "pdf",
               "state": {
                 "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 72,
-                "left": 209,
-                "top": 457,
+                "page": 71,
+                "left": 0,
+                "top": 349,
                 "zoom": 1.45
               },
               "icon": "lucide-file-text",
@@ -441,10 +441,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "da554a31867500c9",
+  "active": "52e11608450ee869",
   "lastOpenFiles": [
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
+    "01_General_Notes/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/#12_大脳基底核・小脳.pdf",
     "999_res/Neural Physiology/#11_大脳皮質運動野.pdf",
     "999_res/Neural Physiology/#10_脳幹と運動制御.pdf",
