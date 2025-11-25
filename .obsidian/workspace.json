@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03_Complete_Notes/Physiology/器官生理学 期末試験 分析.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "器官生理学 期末試験 分析"
             }
           }
         ]
@@ -110,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 254.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -250,8 +254,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -293,12 +297,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,9 +323,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d9073234f208c51c",
+  "active": "17f683f8b2b182a3",
   "lastOpenFiles": [
-    "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "03_Complete_Notes/Physiology/器官生理学 期末試験 分析.md",
+    "03_Complete_Notes/Physiology",
+    "02_Info_Notes/Physiology",
+    "01_General_Notes/Physiology",
+    "99_Archive/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "999_res/Neural Physiology/#12_大脳基底核・小脳.pdf",
     "999_res/Neural Physiology/#11_大脳皮質運動野.pdf",
@@ -330,40 +337,37 @@
     "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
     "999_res/Neural Physiology/#6_神経伝達物質.pdf",
-    "999_res/Neural Physiology/#7_神経細胞内情報伝達.pdf",
     "999_res/Pasted image 20251016053520.png",
-    "999_res/Neural Physiology/#5_シナプス.pdf",
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003.pdf",
-    "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
-    "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
-    "03_Complete_Notes/21_Physiology/器官_01_細胞.md",
-    "03_Complete_Notes/21_Physiology/器官_02_筋肉.md",
-    "03_Complete_Notes/21_Physiology/器官_03_呼吸.md",
-    "03_Complete_Notes/21_Physiology/器官_04_心臓.md",
-    "03_Complete_Notes/21_Physiology/器官_05_血管.md",
-    "99_Archive/21_Physiology/器官_05_血管.md",
-    "03_Complete_Notes/21_Physiology/器官_06_消化.md",
-    "03_Complete_Notes/21_Physiology/器官_00_分析.md",
-    "99_Archive/21_Physiology/器官_06_消化.md",
-    "03_Complete_Notes/21_Physiology/器官_00_用語解説と普遍的機序.md",
-    "99_Archive/21_Physiology/器官_02_筋肉.md",
-    "99_Archive/21_Physiology/器官_04_心臓.md",
-    "99_Archive/21_Physiology/器官_03_呼吸.md",
-    "03_Complete_Notes/21_Physiology/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
-    "99_Archive/21_Physiology/器官_01_細胞.md",
-    "03_Complete_Notes/21_Physiology/器官_05_血管_交感神経の作用.canvas",
-    "01_General_Notes/21_Physiology/器官生理=消化器.md",
+    "99_Archive/22_Neural_Physiology_mid_info/神経生理_イオンチャネルと興奮性膜.md",
+    "99_Archive/22_Neural_Physiology_mid_info/神経生理_分析.md",
+    "99_Archive/21_Physiology_mid_com/器官_01_細胞.md",
+    "99_Archive/21_Physiology_mid_com/器官_02_筋肉.md",
+    "99_Archive/21_Physiology_mid_com/器官_03_呼吸.md",
+    "99_Archive/21_Physiology_mid_com/器官_04_心臓.md",
+    "99_Archive/21_Physiology_mid_com/器官_05_血管.md",
+    "99_Archive/21_Physiology_mid_info/器官_05_血管.md",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化.md",
+    "99_Archive/21_Physiology_mid_com/器官_00_分析.md",
+    "99_Archive/21_Physiology_mid_info/器官_06_消化.md",
+    "99_Archive/21_Physiology_mid_com/器官_00_用語解説と普遍的機序.md",
+    "99_Archive/21_Physiology_mid_info/器官_02_筋肉.md",
+    "99_Archive/21_Physiology_mid_info/器官_04_心臓.md",
+    "99_Archive/21_Physiology_mid_info/器官_03_呼吸.md",
+    "99_Archive/21_Physiology_mid_com/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
+    "99_Archive/21_Physiology_mid_info/器官_01_細胞.md",
+    "99_Archive/21_Physiology_mid_com/器官_05_血管_交感神経の作用.canvas",
+    "99_Archive/21_Physiology/器官生理=消化器.md",
     "Excel 2025-10-13 14.28.57.sheet.md",
     "Excel 2025-10-13 14.28.46.sheet.md",
     "Excel 2025-10-13 14.27.36.sheet.md",
     "03_Complete_Notes/21_Physiology/Excel 2025-10-13 14.18.57.sheet.md",
     "02_Info_Notes/21_Physiology/器官_消化.md",
-    "03_Complete_Notes/21_Physiology/器官_06_消化_膵液の分泌.canvas",
-    "03_Complete_Notes/21_Physiology/器官_06_消化_壁細胞.canvas",
-    "03_Complete_Notes/21_Physiology/器官_06_消化_糖質の消化と吸収.canvas",
-    "03_Complete_Notes/21_Physiology/器官_06_消化_自律神経の消化管支配.canvas",
-    "03_Complete_Notes/21_Physiology/器官_06_消化_ペプチドホルモン.canvas",
-    "03_Complete_Notes/21_Physiology/器官_06_消化_タンパク質の消化と吸収.canvas",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化_膵液の分泌.canvas",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化_壁細胞.canvas",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化_糖質の消化と吸収.canvas",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化_自律神経の消化管支配.canvas",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化_ペプチドホルモン.canvas",
+    "99_Archive/21_Physiology_mid_com/器官_06_消化_タンパク質の消化と吸収.canvas",
     "03_Complete_Notes/21_Physiology/器官_心臓.md",
     "02_Info_Notes/21_Physiology/器官_分析.md",
     "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
