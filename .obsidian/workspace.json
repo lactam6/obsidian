@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17f683f8b2b182a3",
+            "id": "4bcada00b2bba8ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Complete_Notes/Physiology/器官生理学 期末試験 分析.md",
+                "file": "01_General_Notes/Physiology/内分泌・腎臓.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "器官生理学 期末試験 分析"
+              "title": "内分泌・腎臓"
             }
           }
         ]
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -212,12 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_General_Notes/Physiology/内分泌・腎臓.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "内分泌・腎臓のアウトライン"
             }
           },
           {
@@ -235,8 +237,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -273,8 +275,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -301,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 435.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,8 +326,17 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "17f683f8b2b182a3",
+  "active": "4bcada00b2bba8ad",
   "lastOpenFiles": [
+    "01_General_Notes/Physiology/血液.md",
+    "01_General_Notes/Physiology/皮膚・体温.md",
+    "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
+    "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
+    "999_res/Pasted image 20251125164244.png",
+    "999_res/Pasted image 20251125163411.png",
+    "01_General_Notes/Physiology/内分泌・腎臓.md",
+    "999_res/Pasted image 20251125163002.png",
+    "999_res/Pasted image 20251125162932.png",
     "03_Complete_Notes/Physiology/器官生理学 期末試験 分析.md",
     "03_Complete_Notes/Physiology",
     "02_Info_Notes/Physiology",
@@ -358,18 +370,12 @@
     "99_Archive/21_Physiology_mid_com/器官_05_血管_交感神経の作用.canvas",
     "99_Archive/21_Physiology/器官生理=消化器.md",
     "Excel 2025-10-13 14.28.57.sheet.md",
-    "Excel 2025-10-13 14.28.46.sheet.md",
-    "Excel 2025-10-13 14.27.36.sheet.md",
-    "03_Complete_Notes/21_Physiology/Excel 2025-10-13 14.18.57.sheet.md",
-    "02_Info_Notes/21_Physiology/器官_消化.md",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_膵液の分泌.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_壁細胞.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_糖質の消化と吸収.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_自律神経の消化管支配.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_ペプチドホルモン.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_タンパク質の消化と吸収.canvas",
-    "03_Complete_Notes/21_Physiology/器官_心臓.md",
-    "02_Info_Notes/21_Physiology/器官_分析.md",
     "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
     "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas",
     "999_res/Pasted image 20251012232629.png",
