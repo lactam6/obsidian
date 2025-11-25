@@ -4,43 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8fe3614f863ab98",
+        "id": "35edba891f652589",
         "type": "tabs",
-        "dimension": 47.45308310991957,
         "children": [
           {
-            "id": "da554a31867500c9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "#11_大脳皮質運動野",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"999_res/Neural Physiology/#11_大脳皮質運動野.pdf\",\"page\":22,\"left\":-29,\"top\":509,\"zoom\":0.5697916666666667},\"icon\":\"lucide-file-text\",\"title\":\"#11_大脳皮質運動野\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
-                "page": 71,
-                "left": 0,
-                "top": 349,
-                "zoom": 1.45
-              },
-              "icon": "lucide-file-text",
-              "title": "神経生理学中間 シケタイテキスト 1003_compressed"
-            }
-          },
-          {
-            "id": "f4f2b6246eee84ce",
+            "id": "17f683f8b2b182a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -52,98 +20,10 @@
               ]
             },
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "999_res/Neural Physiology/#12_大脳基底核・小脳.pdf",
-                "page": 2,
-                "left": -22,
-                "top": 464,
-                "zoom": 0.6833333333333333
-              },
-              "icon": "lucide-file-text",
-              "title": "#12_大脳基底核・小脳"
-            }
-          }
-        ]
-      },
-      {
-        "id": "24e6c8910fde27b4",
-        "type": "tabs",
-        "dimension": 52.54691689008043,
-        "children": [
-          {
-            "id": "52e11608450ee869",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/22_Neural_Physiology/問題得.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "問題得"
-            }
-          },
-          {
-            "id": "53f9c7430d3595c0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理_イオンチャネルと興奮性膜"
-            }
-          },
-          {
-            "id": "f894792e2d5e5768",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "神経生理_イオンチャネルと興奮性膜",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02_Info_Notes/22_Neural_Physiology/神経生理_イオンチャネルと興奮性膜.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理_イオンチャネルと興奮性膜\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":2},\"to\":{\"line\":28,\"ch\":2}},\"scroll\":14.878175919568815}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info_Notes/22_Neural_Physiology/神経生理_分析.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理_分析"
+              "title": "新規タブ"
             }
           }
         ]
@@ -230,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -352,8 +231,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -371,8 +250,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -390,8 +269,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -409,8 +288,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-ghost",
+              "title": "timer-view"
             }
           }
         ],
@@ -428,23 +307,23 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
+      "canvas:新規キャンバスを作成": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-memos:Thino": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Thino": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "canvas:新規キャンバスを作成": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "excel:Create Excel File": false,
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "52e11608450ee869",
+  "active": "17f683f8b2b182a3",
   "lastOpenFiles": [
-    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "01_General_Notes/22_Neural_Physiology/問題得.md",
+    "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "999_res/Neural Physiology/#12_大脳基底核・小脳.pdf",
     "999_res/Neural Physiology/#11_大脳皮質運動野.pdf",
     "999_res/Neural Physiology/#10_脳幹と運動制御.pdf",
