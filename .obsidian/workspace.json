@@ -162,7 +162,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -377,10 +378,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d3f9bec9b30e11b4",
+  "active": "fce7a700be65a660",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/ワードバンク.md",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/問題一覧.md",
