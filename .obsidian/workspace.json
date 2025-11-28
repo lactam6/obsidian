@@ -4,35 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "35edba891f652589",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3bab72b3c2b16675",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Physiology/問題一覧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "問題一覧"
-            }
-          }
-        ]
-      },
-      {
         "id": "f0dcdc7f23e64064",
         "type": "tabs",
         "children": [
@@ -94,7 +65,8 @@
               "title": "レジュメで整理(重)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -366,8 +339,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,10 +360,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "970cd8f4e9130870",
+  "active": "db1435644b47343a",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/レジュメで整理.md",
+    "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/一対一対応.md",
     "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
