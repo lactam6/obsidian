@@ -8,65 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2782cff96a67178e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "皮膚・体温",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/皮膚・体温.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"皮膚・体温\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":143,\"ch\":100}}}"
-                },
-                {
-                  "title": "血液ガスと酸塩基平衡",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/血液ガスと酸塩基平衡.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"血液ガスと酸塩基平衡\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":89,\"ch\":82}}}"
-                },
-                {
-                  "title": "血液",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/血液.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"血液\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":219,\"ch\":81}}}"
-                },
-                {
-                  "title": "皮膚・体温",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/皮膚・体温.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"皮膚・体温\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "内分泌・腎臓(記述)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/内分泌・腎臓(記述).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"内分泌・腎臓(記述)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":85,\"ch\":58}},\"scroll\":0}"
-                },
-                {
-                  "title": "内分泌・腎臓",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/内分泌・腎臓.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"内分泌・腎臓\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":422,\"ch\":0}},\"scroll\":232.7499892982572}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "血液ガスと酸塩基平衡"
-            }
-          },
-          {
             "id": "3bab72b3c2b16675",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -89,8 +30,7 @@
               "title": "問題一覧"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f0dcdc7f23e64064",
@@ -107,6 +47,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "問題一覧",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/問題一覧.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"問題一覧\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":16},\"to\":{\"line\":5,\"ch\":16}},\"scroll\":0}"
+                },
+                {
                   "title": "レジュメで整理",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理\"}",
@@ -117,12 +63,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/Physiology/問題一覧.md",
+                "file": "01_General_Notes/Physiology/レジュメで整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "問題一覧"
+              "title": "レジュメで整理"
+            }
+          },
+          {
+            "id": "db1435644b47343a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "レジュメで整理(重)"
             }
           }
         ]
@@ -421,8 +390,10 @@
   },
   "active": "970cd8f4e9130870",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/問題一覧.md",
+    "01_General_Notes/Physiology/レジュメで整理.md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/一対一対応.md",
     "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/Physiology/血液.md",
@@ -461,9 +432,7 @@
     "99_Archive/21_Physiology_mid_info/器官_04_心臓.md",
     "99_Archive/21_Physiology_mid_info/器官_03_呼吸.md",
     "99_Archive/21_Physiology_mid_com/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
-    "99_Archive/21_Physiology_mid_info/器官_01_細胞.md",
     "99_Archive/21_Physiology_mid_com/器官_05_血管_交感神経の作用.canvas",
-    "99_Archive/21_Physiology/器官生理=消化器.md",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_膵液の分泌.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_壁細胞.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_糖質の消化と吸収.canvas",
