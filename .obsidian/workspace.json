@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/Physiology/一覧.md",
+                "file": "01_General_Notes/Physiology/問題一覧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一覧"
+              "title": "問題一覧"
             }
           }
         ],
@@ -105,18 +105,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "レジュメで整理",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":76,\"ch\":28}},\"scroll\":59.250991632037945}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/Physiology/レジュメで整理.md",
+                "file": "01_General_Notes/Physiology/問題一覧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "レジュメで整理"
+              "title": "問題一覧"
             }
           }
         ]
@@ -169,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#18_血液3_白血球・生体防御",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +205,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -414,10 +419,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "3bab72b3c2b16675",
+  "active": "970cd8f4e9130870",
   "lastOpenFiles": [
     "01_General_Notes/Physiology/レジュメで整理.md",
-    "01_General_Notes/Physiology/一覧.md",
+    "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/Physiology/血液.md",
