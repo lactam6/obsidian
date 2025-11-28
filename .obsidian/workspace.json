@@ -64,6 +64,29 @@
               "icon": "lucide-file",
               "title": "レジュメで整理(解)"
             }
+          },
+          {
+            "id": "01d8fd5ddce00797",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/Physiology/ワードバンク.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ワードバンク"
+            }
           }
         ]
       }
@@ -360,11 +383,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d3f9bec9b30e11b4",
+  "active": "f57649111498c8e7",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/ワードバンク.md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/一対一対応.md",
