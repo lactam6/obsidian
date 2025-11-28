@@ -23,7 +23,7 @@
               "type": "markdown",
               "state": {
                 "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -383,11 +383,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f57649111498c8e7",
+  "active": "d3f9bec9b30e11b4",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/ワードバンク.md",
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/ワードバンク.md",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/一対一対応.md",
