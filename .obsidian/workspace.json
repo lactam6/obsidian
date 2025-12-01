@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -404,8 +405,8 @@
   "lastOpenFiles": [
     "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
-    "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "01_General_Notes/Physiology/ワードバンク.md",
+    "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/一対一対応.md",
