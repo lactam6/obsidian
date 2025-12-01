@@ -16,21 +16,57 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "レジュメで整理(解)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理(解).md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理(解)\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "レジュメで整理(重)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理(重).md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理(重)\"}",
+                  "eState": "{\"scroll\":165.98315858004386}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
+                "file": "01_General_Notes/Physiology/血液.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "レジュメで整理(重)"
+              "title": "血液"
+            }
+          },
+          {
+            "id": "c09bd1915a421a39",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/Physiology/神経整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神経整理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b9e0545fd194927e",
@@ -95,6 +131,29 @@
             }
           },
           {
+            "id": "be57628b90714d45",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/Physiology/無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
+            }
+          },
+          {
             "id": "f7f0f327fdf706ce",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -118,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -412,10 +471,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "225a7115e8026bfe",
+  "active": "c09bd1915a421a39",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/血液.md",
+    "01_General_Notes/Physiology/神経整理.md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/無題のファイル.md",
+    "無題のフォルダ",
     "01_General_Notes/Physiology/内分泌・腎臓.md",
     "01_General_Notes/Physiology/ワードバンク.md",
     "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
@@ -424,7 +487,6 @@
     "01_General_Notes/Physiology/一対一対応.md",
     "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
     "01_General_Notes/Physiology/皮膚・体温.md",
-    "01_General_Notes/Physiology/血液.md",
     "999_res/Pasted image 20251125164244.png",
     "999_res/Pasted image 20251125163411.png",
     "999_res/Pasted image 20251125163002.png",
@@ -440,7 +502,6 @@
     "999_res/Neural Physiology/#10_脳幹と運動制御.pdf",
     "999_res/Neural Physiology/#9_脊髄と運動制御.pdf",
     "999_res/Neural Physiology/#8_ニューロンとグリア.pdf",
-    "999_res/Neural Physiology/#6_神経伝達物質.pdf",
     "999_res/Pasted image 20251016053520.png",
     "99_Archive/22_Neural_Physiology_mid_info/神経生理_イオンチャネルと興奮性膜.md",
     "99_Archive/22_Neural_Physiology_mid_info/神経生理_分析.md",
@@ -453,8 +514,6 @@
     "99_Archive/21_Physiology_mid_com/器官_06_消化.md",
     "99_Archive/21_Physiology_mid_com/器官_00_分析.md",
     "99_Archive/21_Physiology_mid_info/器官_06_消化.md",
-    "99_Archive/21_Physiology_mid_com/器官_00_用語解説と普遍的機序.md",
-    "99_Archive/21_Physiology_mid_info/器官_02_筋肉.md",
     "99_Archive/21_Physiology_mid_com/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
     "99_Archive/21_Physiology_mid_com/器官_05_血管_交感神経の作用.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_膵液の分泌.canvas",
