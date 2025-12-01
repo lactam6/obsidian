@@ -8,42 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3f9bec9b30e11b4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "レジュメで整理(解)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理(解).md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理(解)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "レジュメで整理(重)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理(重).md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理(重)\"}",
-                  "eState": "{\"scroll\":165.98315858004386}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Physiology/血液.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "血液"
-            }
-          },
-          {
-            "id": "c09bd1915a421a39",
+            "id": "d55afdffbd7a1deb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -57,16 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/Physiology/神経整理.md",
+                "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神経整理"
+              "title": "レジュメで整理(重)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b9e0545fd194927e",
@@ -129,55 +93,9 @@
               "icon": "lucide-file",
               "title": "レジュメで整理(解)"
             }
-          },
-          {
-            "id": "be57628b90714d45",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Physiology/無題のファイル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル"
-            }
-          },
-          {
-            "id": "f7f0f327fdf706ce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "内分泌・腎臓(記述)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -471,17 +389,17 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c09bd1915a421a39",
+  "active": "225a7115e8026bfe",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/血液.md",
-    "01_General_Notes/Physiology/神経整理.md",
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/ワードバンク.md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "01_General_Notes/Physiology/無題のファイル.md",
+    "01_General_Notes/Physiology/神経整理.md",
+    "01_General_Notes/Physiology/血液.md",
     "無題のフォルダ",
     "01_General_Notes/Physiology/内分泌・腎臓.md",
-    "01_General_Notes/Physiology/ワードバンク.md",
-    "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/一対一対応.md",
