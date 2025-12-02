@@ -51,22 +51,92 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "皮膚・体温",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/皮膚・体温.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"皮膚・体温\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":114.34090713282266}"
+                },
+                {
+                  "title": "神経生理学2021",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2021.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2021\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":44},\"to\":{\"line\":33,\"ch\":44}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
+                "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神経生理学2021"
+              "title": "レジュメで整理(重)"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1d05cf2a255eb296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb3a0bbf888efb4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/Physiology/レジュメで整理(解).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "レジュメで整理(解)"
+            }
+          },
+          {
+            "id": "7b26113d841abd5d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "臨界期 at DuckDuckGo",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=%E8%87%A8%E7%95%8C%E6%9C%9F\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                }
+              ]
+            },
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://duckduckgo.com/?q=%E8%87%A8%E7%95%8C%E6%9C%9F&ia=web",
+                "title": "臨界期 at DuckDuckGo",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "臨界期 at DuckDuckGo"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,7 +408,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,10 +430,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1fc285cd6fa5374b",
+  "active": "adb3a0bbf888efb4",
   "lastOpenFiles": [
-    "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "999_res/Pasted image 20251202172214.png",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "999_res/Pasted image 20251202171340.png",
@@ -375,7 +449,6 @@
     "01_General_Notes/Physiology/ワードバンク.md",
     "01_General_Notes/Histology/組織学小テスト問題まとめ2025, 2023, 2021, 2020.md",
     "01_General_Notes/NeuroPhysiology",
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Histology/組織学過去問まとめ.md",
     "999_res/Pasted image 20251202162454.png",
     "Contemporary/無題のファイル.md",
@@ -383,7 +456,6 @@
     "999_res/Pasted image 20251202113421.png",
     "999_res/Pasted image 20251202113334.png",
     "999_res/Pasted image 20251202113227.png",
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "01_General_Notes/Physiology/神経整理.md",
     "01_General_Notes/Physiology/血液.md",
@@ -392,7 +464,6 @@
     "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/一対一対応.md",
     "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
-    "01_General_Notes/Physiology/皮膚・体温.md",
     "03_Complete_Notes/Physiology/器官生理学 期末試験 分析.md",
     "03_Complete_Notes/Physiology",
     "02_Info_Notes/Physiology",
