@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -413,21 +413,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "dc6212b8bb9dedc0",
+  "active": "dd2f3ecb0d58fdcf",
   "lastOpenFiles": [
-    "999_res/Pasted image 20251202111333.png",
-    "999_res/Pasted image 20251202111320.png",
-    "999_res/Pasted image 20251202111304.png",
-    "999_res/Pasted image 20251202111255.png",
-    "999_res/Pasted image 20251202111241.png",
-    "999_res/Pasted image 20251202111224.png",
-    "999_res/Pasted image 20251202111215.png",
-    "999_res/Pasted image 20251202111204.png",
-    "999_res/Pasted image 20251202111154.png",
-    "999_res/Pasted image 20251202111144.png",
-    "999_res/Pasted image 20251202111134.png",
-    "01_General_Notes/Histology/組織学小テスト問題まとめ2025, 2023, 2021, 2020.md",
     "01_General_Notes/Histology/組織学過去問まとめ.md",
+    "999_res/Pasted image 20251202113421.png",
+    "999_res/Pasted image 20251202113334.png",
+    "999_res/Pasted image 20251202113227.png",
+    "999_res/Pasted image 20251202113205.png",
+    "999_res/Pasted image 20251202113128.png",
+    "999_res/Pasted image 20251202112924.png",
+    "999_res/Pasted image 20251202112641.png",
+    "999_res/Pasted image 20251202112630.png",
+    "999_res/Pasted image 20251202112500.png",
+    "999_res/Pasted image 20251202112402.png",
+    "01_General_Notes/Histology/組織学小テスト問題まとめ2025, 2023, 2021, 2020.md",
     "01_General_Notes/Physiology/ワードバンク.md",
     "01_General_Notes/Histology/無題のファイル 1.md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
