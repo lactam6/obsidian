@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#16_血液1_総論・赤血球",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -400,10 +401,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1fc285cd6fa5374b",
+  "active": "adb3a0bbf888efb4",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "999_res/Pasted image 20251203142558.png",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
