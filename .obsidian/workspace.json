@@ -106,38 +106,8 @@
               "icon": "lucide-file",
               "title": "レジュメで整理(解)"
             }
-          },
-          {
-            "id": "7b26113d841abd5d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "臨界期 at DuckDuckGo",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=%E8%87%A8%E7%95%8C%E6%9C%9F\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                }
-              ]
-            },
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://duckduckgo.com/?q=%E8%87%A8%E7%95%8C%E6%9C%9F&ia=web",
-                "title": "臨界期 at DuckDuckGo",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "臨界期 at DuckDuckGo"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -431,10 +401,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1fc285cd6fa5374b",
+  "active": "adb3a0bbf888efb4",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
