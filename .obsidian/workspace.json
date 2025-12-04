@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -401,10 +401,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1fc285cd6fa5374b",
+  "active": "adb3a0bbf888efb4",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "999_res/Pasted image 20251203142558.png",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
