@@ -187,8 +187,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -401,7 +400,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "adb3a0bbf888efb4",
+  "active": "d9073234f208c51c",
   "lastOpenFiles": [
     "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
