@@ -113,6 +113,29 @@
             }
           },
           {
+            "id": "d701d866504c9763",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/NeuroPhysiology/神経生理学2014.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神経生理学2014"
+            }
+          },
+          {
             "id": "53b24031518431f0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -171,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -464,10 +487,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8480e6fba372b95d",
+  "active": "d701d866504c9763",
   "lastOpenFiles": [
-    "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2014.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
     "01_General_Notes/NeuroPhysiology/Designing.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2018.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
@@ -509,7 +533,6 @@
     "03_Complete_Notes/Physiology",
     "02_Info_Notes/Physiology",
     "01_General_Notes/Physiology",
-    "99_Archive/22_Neural_Physiology/問題得.md",
     "999_res/Neural Physiology/神経生理学中間 シケタイテキスト 1003_compressed.pdf",
     "999_res/Neural Physiology/#12_大脳基底核・小脳.pdf",
     "99_Archive/21_Physiology_mid_com/器官_01_ホスファチジルイノシトールによる細胞内シグナル伝達.canvas",
