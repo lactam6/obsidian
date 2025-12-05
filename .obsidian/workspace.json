@@ -21,7 +21,7 @@
                   "title": "レジュメで整理",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.00756501193305843}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "神経生理学2023",
@@ -34,51 +34,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理学2023"
-            }
-          },
-          {
-            "id": "1fc285cd6fa5374b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "皮膚・体温",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/皮膚・体温.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"皮膚・体温\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":114.34090713282266}"
-                },
-                {
-                  "title": "神経生理学2021",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2021.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2021\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":44},\"to\":{\"line\":33,\"ch\":44}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "レジュメで整理(重)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1d05cf2a255eb296",
@@ -407,17 +371,17 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "adb3a0bbf888efb4",
+  "active": "6e96825ba0d25656",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "999_res/Pasted image 20251203142558.png",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
-    "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "999_res/Pasted image 20251202172214.png",
-    "01_General_Notes/Physiology/レジュメで整理.md",
     "999_res/Pasted image 20251202171340.png",
     "999_res/Pasted image 20251202171210.png",
     "999_res/Pasted image 20251202171120.png",
