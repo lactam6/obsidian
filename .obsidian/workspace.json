@@ -75,18 +75,36 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "神経生理学2021",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2021.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2021\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":126.09388582192018}"
+                },
+                {
+                  "title": "神経生理学2020",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2020.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2020\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "神経生理学2017",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2017.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2017\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":0},\"to\":{\"line\":102,\"ch\":0}},\"scroll\":100.58332125345866}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
+                "file": "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神経生理学2017"
+              "title": "神経生理学2020"
             }
           },
           {
@@ -195,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -488,33 +506,34 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "53b24031518431f0",
+  "active": "2c0f60390e962e0f",
   "lastOpenFiles": [
+    "999_res/Pasted image 20251205173814.png",
+    "999_res/Pasted image 20251205173749.png",
+    "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
+    "999_res/Pasted image 20251205173647.png",
+    "999_res/Pasted image 20251205173624.png",
+    "999_res/Pasted image 20251205173602.png",
+    "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
+    "999_res/Pasted image 20251205173502.png",
+    "999_res/Pasted image 20251205173427.png",
+    "999_res/Pasted image 20251205173414.png",
+    "999_res/Pasted image 20251205173134.png",
+    "999_res/Pasted image 20251205173110.png",
     "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2024.md",
-    "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2014.md",
-    "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
-    "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
     "01_General_Notes/NeuroPhysiology/Designing.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2018.md",
-    "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
     "01_General_Notes/NeuroPhysiology/2021神経生理期末.pdf",
     "999_res/Pasted image 20251205155418.png",
-    "999_res/Pasted image 20251205155210.png",
-    "999_res/Pasted image 20251205155200.png",
-    "999_res/Pasted image 20251205155137.png",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
-    "999_res/Pasted image 20251203142558.png",
     "01_General_Notes/Physiology/皮膚・体温.md",
-    "999_res/Pasted image 20251202172214.png",
-    "999_res/Pasted image 20251202171340.png",
-    "999_res/Pasted image 20251202171210.png",
-    "999_res/Pasted image 20251202171120.png",
-    "999_res/Pasted image 20251202170945.png",
     "01_General_Notes/Histology/学習計画.md",
     "01_General_Notes/Histology/2019組織中間(実習)対策.pdf",
     "01_General_Notes/Physiology/ワードバンク.md",
@@ -530,7 +549,6 @@
     "01_General_Notes/Physiology/問題一覧.md",
     "01_General_Notes/Physiology/一対一対応.md",
     "01_General_Notes/Physiology/血液ガスと酸塩基平衡.md",
-    "03_Complete_Notes/Physiology/器官生理学 期末試験 分析.md",
     "03_Complete_Notes/Physiology",
     "02_Info_Notes/Physiology",
     "01_General_Notes/Physiology",
