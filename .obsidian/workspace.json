@@ -4,81 +4,142 @@
     "type": "split",
     "children": [
       {
-        "id": "2736d76b2708da97",
-        "type": "tabs",
+        "id": "ce540a877a142d70",
+        "type": "split",
         "children": [
           {
-            "id": "a70d789806e1d505",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "bbbd95760376a6df",
+            "type": "tabs",
+            "dimension": 68.48072562358276,
+            "children": [
+              {
+                "id": "20afcb31353c5151",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
                 },
-                {
-                  "title": "神経生理学2024",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01_General_Notes/NeuroPhysiology/試験対策.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2024.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2024\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "神経生理学2023",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2023.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2023\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "神経生理学2021",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2021.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2021\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "神経生理学2020",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2020.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2020\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "神経生理学2018",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2018.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2018\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "神経生理学2017",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2017.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2017\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "神経生理学2016",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2016.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2016\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":101},\"to\":{\"line\":113,\"ch\":101}},\"scroll\":103.59792073567708}"
-                },
-                {
-                  "title": "Profilling",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/Profilling.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Profilling\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1192,\"ch\":3},\"to\":{\"line\":1192,\"ch\":3}},\"scroll\":647.2045844465812}"
+                  "title": "試験対策"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/notebookLM.md",
-                "mode": "source",
-                "source": false
+              }
+            ]
+          },
+          {
+            "id": "2736d76b2708da97",
+            "type": "tabs",
+            "dimension": 31.519274376417233,
+            "children": [
+              {
+                "id": "a70d789806e1d505",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "神経生理学2024",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2024.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2024\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "神経生理学2023",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2023.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2023\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "神経生理学2021",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2021.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2021\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "神経生理学2020",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2020.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2020\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "神経生理学2018",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2018.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2018\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "神経生理学2017",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2017.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2017\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "神経生理学2016",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2016.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2016\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":101},\"to\":{\"line\":113,\"ch\":101}},\"scroll\":103.59792073567708}"
+                    },
+                    {
+                      "title": "Profilling",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/Profilling.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Profilling\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":1192,\"ch\":3},\"to\":{\"line\":1192,\"ch\":3}},\"scroll\":647.2045844465812}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01_General_Notes/NeuroPhysiology/notebookLM.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "notebookLM"
+                }
               },
-              "icon": "lucide-file",
-              "title": "notebookLM"
-            }
+              {
+                "id": "330a0cd05c667245",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01_General_Notes/NeuroPhysiology/記憶事項.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "記憶事項"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -371,10 +432,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "a70d789806e1d505",
+  "active": "20afcb31353c5151",
   "lastOpenFiles": [
-    "01_General_Notes/NeuroPhysiology/神経生理学2024.md",
     "01_General_Notes/NeuroPhysiology/notebookLM.md",
+    "01_General_Notes/NeuroPhysiology/試験対策.md",
+    "01_General_Notes/NeuroPhysiology/記憶事項.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2024.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
@@ -412,8 +475,6 @@
     "01_General_Notes/Physiology/血液.md",
     "01_General_Notes/Histology",
     "01_General_Notes/Physiology/内分泌・腎臓.md",
-    "01_General_Notes/Physiology/問題一覧.md",
-    "01_General_Notes/Physiology/一対一対応.md",
     "03_Complete_Notes/Physiology",
     "02_Info_Notes/Physiology",
     "01_General_Notes/Physiology",
