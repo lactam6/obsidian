@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"024ebae69ba5f126","x":0,"y":-100,"width":93,"height":60,"type":"text","text":"刺激"},
+		{"id":"6f8ea075cac90e7f","x":260,"y":-100,"width":250,"height":60,"type":"text","text":"視床"}
+	],
+	"edges":[
+		{"id":"d97ee9275304d474","fromNode":"024ebae69ba5f126","fromSide":"right","toNode":"6f8ea075cac90e7f","toSide":"left"},
+		{"id":"6d45f239db15a1e2","fromNode":"024ebae69ba5f126","fromSide":"right","toNode":"6f8ea075cac90e7f","toSide":"left"},
+		{"id":"72cd7aa32a52b91b","fromNode":"024ebae69ba5f126","fromSide":"right","toNode":"6f8ea075cac90e7f","toSide":"bottom"}
+	]
+}

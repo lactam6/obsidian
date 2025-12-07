@@ -124,7 +124,7 @@
             }
           },
           {
-            "id": "d5c2e8426f160891",
+            "id": "4fa7f9e12ff683ed",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -442,14 +442,15 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5c2e8426f160891",
+  "active": "4fa7f9e12ff683ed",
   "lastOpenFiles": [
+    "01_General_Notes/NeuroPhysiology/演習.md",
     "01_General_Notes/NeuroPhysiology/試験対策.md",
+    "無題のファイル.canvas",
     "01_General_Notes/NeuroPhysiology/カンペ.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2024.md",
     "00_Daily_Notes/無題のファイル.md",
     "00_Daily_Notes/2025-10-12.md",
-    "01_General_Notes/NeuroPhysiology/演習.md",
     "01_General_Notes/NeuroPhysiology/解答.md",
     "01_General_Notes/NeuroPhysiology/問題集.md",
     "01_General_Notes/Physiology/問題一覧.md",
@@ -480,7 +481,6 @@
     "01_General_Notes/NeuroPhysiology/神経生理学2014.md",
     "01_General_Notes/NeuroPhysiology/2021神経生理期末.pdf",
     "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
-    "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/Histology/2019組織中間(実習)対策.pdf",
     "01_General_Notes/NeuroPhysiology",
     "Contemporary",
@@ -498,7 +498,6 @@
     "99_Archive/21_Physiology_mid_com/器官_06_消化_自律神経の消化管支配.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_ペプチドホルモン.canvas",
     "99_Archive/21_Physiology_mid_com/器官_06_消化_タンパク質の消化と吸収.canvas",
-    "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas",
-    "02_Info_Notes/21_Physiology/器官生理_消化器_壁細胞.canvas"
+    "02_Info_Notes/21_Physiology/器官生理=消化器=壁細胞.canvas"
   ]
 }
