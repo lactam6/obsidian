@@ -4,123 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbbd95760376a6df",
+        "id": "81a5a760e88a3d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "20afcb31353c5151",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "神経生理学2021",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2021.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2021\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":192.50127887478595}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "試験対策",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/試験対策.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"試験対策\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.616361833334174}"
-                },
-                {
-                  "title": "演習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/演習.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"演習\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "解答",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/解答.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"解答\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "記憶事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/記憶事項.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"記憶事項\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "解答",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/解答.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"解答\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":11.435204872107375}"
-                },
-                {
-                  "title": "試験対策",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/試験対策.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"試験対策\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "記憶事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/記憶事項.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"記憶事項\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "試験対策",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/試験対策.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"試験対策\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":61},\"to\":{\"line\":84,\"ch\":61}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/問題集.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "問題集"
-            }
-          },
-          {
-            "id": "ffe737f5ba3d5389",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "問題集",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/問題集.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"問題集\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":139,\"ch\":253},\"to\":{\"line\":139,\"ch\":253}},\"scroll\":2.8388888041178384}"
-                },
-                {
-                  "title": "解答",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/解答.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"解答\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":122,\"ch\":168},\"to\":{\"line\":122,\"ch\":168}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/解答.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "解答"
-            }
-          },
-          {
-            "id": "b2f8a8c96aa07a38",
+            "id": "864309d8522193dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -132,70 +20,24 @@
               ]
             },
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse",
-                "title": "generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse",
-                "mode": "webview"
+                "file": "01_General_Notes/Physiology/レジュメで整理(重).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse"
+              "icon": "lucide-file",
+              "title": "レジュメで整理(重)"
             }
           }
         ]
       },
       {
-        "id": "e19ba92ff449b6ec",
+        "id": "54c574d9e11b4f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c2e97de9131fb0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/演習.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "演習"
-            }
-          },
-          {
-            "id": "e6e51c1e80408e0b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理学2016"
-            }
-          },
-          {
-            "id": "600dfe632f444765",
+            "id": "3f49c26efabd790f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -205,51 +47,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "神経生理学2024",
+                  "title": "レジュメで整理",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2024.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2024\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":196.68549975855316}"
-                },
-                {
-                  "title": "神経生理学2017",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/神経生理学2017.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"神経生理学2017\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":93.43627855113263}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/レジュメで整理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"レジュメで整理\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
+                "file": "01_General_Notes/Physiology/レジュメで整理(解).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神経生理学2023"
-            }
-          },
-          {
-            "id": "136817661a0ca469",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/神経生理学2018.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神経生理学2018"
+              "title": "レジュメで整理(解)"
             }
           }
         ]
@@ -547,17 +360,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "20afcb31353c5151",
+  "active": "3f49c26efabd790f",
   "lastOpenFiles": [
-    "01_General_Notes/NeuroPhysiology/解答.md",
-    "01_General_Notes/NeuroPhysiology/無題のファイル.md",
-    "01_General_Notes/NeuroPhysiology/問題集.md",
-    "01_General_Notes/NeuroPhysiology/演習.md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2018.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
+    "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
+    "01_General_Notes/NeuroPhysiology/問題集.md",
+    "01_General_Notes/NeuroPhysiology/解答.md",
+    "01_General_Notes/NeuroPhysiology/無題のファイル.md",
+    "01_General_Notes/NeuroPhysiology/演習.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2024.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
-    "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
     "01_General_Notes/NeuroPhysiology/試験対策.md",
@@ -577,9 +393,6 @@
     "999_res/Pasted image 20251205173749.png",
     "01_General_Notes/NeuroPhysiology/神経生理学2014.md",
     "01_General_Notes/NeuroPhysiology/2021神経生理期末.pdf",
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
-    "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/Physiology/内分泌・腎臓(記述).md",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/Histology/学習計画.md",
