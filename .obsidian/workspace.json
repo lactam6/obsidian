@@ -85,29 +85,6 @@
             }
           },
           {
-            "id": "b8a2de233fbeff8f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/NeuroPhysiology/無題のファイル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル"
-            }
-          },
-          {
             "id": "ffe737f5ba3d5389",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -165,8 +142,7 @@
               "title": "generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e19ba92ff449b6ec",
@@ -571,12 +547,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b8a2de233fbeff8f",
+  "active": "20afcb31353c5151",
   "lastOpenFiles": [
-    "01_General_Notes/NeuroPhysiology/問題集.md",
-    "01_General_Notes/NeuroPhysiology/無題のファイル.md",
-    "01_General_Notes/NeuroPhysiology/演習.md",
     "01_General_Notes/NeuroPhysiology/解答.md",
+    "01_General_Notes/NeuroPhysiology/無題のファイル.md",
+    "01_General_Notes/NeuroPhysiology/問題集.md",
+    "01_General_Notes/NeuroPhysiology/演習.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2018.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2024.md",
