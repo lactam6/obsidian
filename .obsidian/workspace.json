@@ -53,8 +53,7 @@
               "title": "カンペ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,10 +348,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4913689bc1d673ec",
+  "active": "d071afdd3be0fb2c",
   "lastOpenFiles": [
-    "01_General_Notes/animal/問題.md",
     "01_General_Notes/animal/カンペ.md",
+    "01_General_Notes/animal/問題.md",
     "01_General_Notes/NeuroPhysiology/カンペ.md",
     "01_General_Notes/animal",
     "01_General_Notes/NeuroPhysiology/演習.md",
