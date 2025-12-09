@@ -11,8 +11,14 @@
             "id": "3266a52fcb540b1d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "皮膚・体温",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Physiology/皮膚・体温.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"皮膚・体温\"}",
+                  "eState": "{\"scroll\":108.92740906071542}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -355,10 +361,11 @@
       "timer:Open timer": false
     }
   },
-  "active": "cd07d8f34b48e249",
+  "active": "3266a52fcb540b1d",
   "lastOpenFiles": [
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
+    "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Histology/無題のファイル.md",
     "01_General_Notes/animal/問題.md",
     "01_General_Notes/animal/カンペ.md",
@@ -390,7 +397,6 @@
     "999_res/Pasted image 20251205235000.png",
     "999_res/Pasted image 20251205234943.png",
     "999_res/Pasted image 20251205234925.png",
-    "01_General_Notes/NeuroPhysiology/Designing.md",
     "999_res/Pasted image 20251205231651.png",
     "999_res/Pasted image 20251205231625.png",
     "999_res/Pasted image 20251205173814.png",
