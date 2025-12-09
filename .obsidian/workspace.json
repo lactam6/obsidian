@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "168d8f2250c3c432",
+        "id": "4d16c246867862d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d071afdd3be0fb2c",
+            "id": "01d4d0bfab23dad7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,37 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/animal/問題.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "問題"
-            }
-          },
-          {
-            "id": "4913689bc1d673ec",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/animal/カンペ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "カンペ"
+              "title": "新規タブ"
             }
           }
         ]
@@ -137,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6947538c1243af40",
@@ -348,10 +320,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d071afdd3be0fb2c",
+  "active": "01d4d0bfab23dad7",
   "lastOpenFiles": [
-    "01_General_Notes/animal/カンペ.md",
     "01_General_Notes/animal/問題.md",
+    "01_General_Notes/animal/カンペ.md",
     "01_General_Notes/NeuroPhysiology/カンペ.md",
     "01_General_Notes/animal",
     "01_General_Notes/NeuroPhysiology/演習.md",
