@@ -123,7 +123,7 @@
       {
         "id": "2d32e9dedb4732e2",
         "type": "tabs",
-        "dimension": 67.00680272108843,
+        "dimension": 70.97505668934241,
         "children": [
           {
             "id": "cd07d8f34b48e249",
@@ -153,7 +153,7 @@
       {
         "id": "6dcb9dda89d7d36a",
         "type": "tabs",
-        "dimension": 32.99319727891156,
+        "dimension": 29.024943310657598,
         "children": [
           {
             "id": "500078f0263fd881",
@@ -310,7 +310,7 @@
             }
           },
           {
-            "id": "6ae2ea5cf4ce437d",
+            "id": "866d6387d100164e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -355,7 +355,7 @@
       "timer:Open timer": false
     }
   },
-  "active": "cd07d8f34b48e249",
+  "active": "866d6387d100164e",
   "lastOpenFiles": [
     "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
