@@ -4,64 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e93749078ac48c",
+        "id": "bbdb2f1d1c890dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "588a3884e62e7fb5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "カンペ",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/NeuroPhysiology/カンペ.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"カンペ\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}},\"scroll\":4.075757865844465}"
-                },
-                {
-                  "title": "小テスト",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Histology/小テスト.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"小テスト\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":325,\"ch\":9},\"to\":{\"line\":325,\"ch\":9}},\"scroll\":318.8519373112414}"
-                },
-                {
-                  "title": "組織学小テスト問題まとめ2025, 2023, 2021, 2020",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Histology/組織学小テスト問題まとめ2025, 2023, 2021, 2020.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"組織学小テスト問題まとめ2025, 2023, 2021, 2020\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":28},\"to\":{\"line\":3,\"ch\":28}}}"
-                },
-                {
-                  "title": "小テスト",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Histology/小テスト.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"小テスト\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":3},\"to\":{\"line\":1,\"ch\":3}}}"
-                },
-                {
-                  "title": "組織学小テスト問題まとめ2025, 2023, 2021, 2020",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01_General_Notes/Histology/組織学小テスト問題まとめ2025, 2023, 2021, 2020.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"組織学小テスト問題まとめ2025, 2023, 2021, 2020\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Histology/小テスト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "小テスト"
-            }
-          },
-          {
-            "id": "927c74afc7758928",
+            "id": "c61ab5a0a610ff9b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/NeuroPhysiology/カンペ.md",
+                "file": "01_General_Notes/Physiology/演習.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "カンペ"
+              "title": "演習"
             }
           }
         ]
@@ -167,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -355,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 748.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,10 +325,16 @@
       "timer:Open timer": false
     }
   },
-  "active": "588a3884e62e7fb5",
+  "active": "c61ab5a0a610ff9b",
   "lastOpenFiles": [
-    "01_General_Notes/NeuroPhysiology/カンペ.md",
+    "01_General_Notes/Physiology/演習.md",
+    "01_General_Notes/Physiology/血液.md",
+    "01_General_Notes/Physiology/ワードバンク.md",
+    "01_General_Notes/Physiology/レジュメで整理.md",
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
+    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Histology/小テスト.md",
+    "01_General_Notes/NeuroPhysiology/カンペ.md",
     "999_res/Pasted image 20251210183121.png",
     "999_res/Pasted image 20251210180631.png",
     "999_res/Pasted image 20251210175915.png",
@@ -392,8 +346,6 @@
     "999_res/Pasted image 20251210172637.png",
     "999_res/Pasted image 20251210165603.png",
     "01_General_Notes/Histology/組織学小テスト問題まとめ2025, 2023, 2021, 2020.md",
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
-    "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Physiology/皮膚・体温.md",
     "01_General_Notes/animal/問題.md",
     "01_General_Notes/animal/カンペ.md",
@@ -407,15 +359,12 @@
     "01_General_Notes/NeuroPhysiology/解答.md",
     "01_General_Notes/NeuroPhysiology/問題集.md",
     "01_General_Notes/Physiology/問題一覧.md",
-    "01_General_Notes/Physiology/血液.md",
-    "01_General_Notes/Physiology/レジュメで整理.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2018.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2023.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2016.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2017.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2020.md",
     "01_General_Notes/NeuroPhysiology/神経生理学2021.md",
-    "01_General_Notes/NeuroPhysiology/記憶事項.md",
     "01_General_Notes/NeuroPhysiology/2021神経生理期末.pdf",
     "01_General_Notes/Histology/2019組織中間(実習)対策.pdf",
     "01_General_Notes/NeuroPhysiology",
