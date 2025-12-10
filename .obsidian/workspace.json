@@ -29,6 +29,29 @@
               "icon": "lucide-file",
               "title": "演習"
             }
+          },
+          {
+            "id": "339277ff39414b33",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_General_Notes/Physiology/レジュメで整理(解).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "レジュメで整理(解)"
+            }
           }
         ]
       }
@@ -328,11 +351,11 @@
   },
   "active": "c61ab5a0a610ff9b",
   "lastOpenFiles": [
+    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/演習.md",
     "01_General_Notes/Physiology/血液.md",
     "01_General_Notes/Physiology/ワードバンク.md",
     "01_General_Notes/Physiology/レジュメで整理.md",
-    "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/レジュメで整理(重).md",
     "01_General_Notes/Histology/小テスト.md",
     "01_General_Notes/NeuroPhysiology/カンペ.md",
