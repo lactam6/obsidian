@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6947538c1243af40",
@@ -321,7 +322,8 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "excel:Create Excel File": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "timer:Open timer": false
+      "timer:Open timer": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "c61ab5a0a610ff9b",
