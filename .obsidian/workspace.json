@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbdb2f1d1c890dd6",
+        "id": "73f1fc26efa683cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c61ab5a0a610ff9b",
+            "id": "a8e7293ce12795c3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,35 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_General_Notes/Physiology/演習.md",
+                "file": "01_General_Notes/Histology/小テスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "演習"
-            }
-          },
-          {
-            "id": "339277ff39414b33",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_General_Notes/Physiology/レジュメで整理(解).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "レジュメで整理(解)"
+              "title": "小テスト"
             }
           }
         ]
@@ -349,8 +326,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c61ab5a0a610ff9b",
+  "active": "a8e7293ce12795c3",
   "lastOpenFiles": [
+    "999_res/Pasted image 20251212011455.png",
     "01_General_Notes/Physiology/レジュメで整理(解).md",
     "01_General_Notes/Physiology/演習.md",
     "999_res/Pasted image 20251211055230.png",
